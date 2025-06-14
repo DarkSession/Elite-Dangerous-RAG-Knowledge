@@ -4,48 +4,48 @@ Content: This report presents the latest data on the security status of the gala
 
 Here are the latest factions to experience a lockdown:
 
-Ngaliba Blue Camorra
+Xihe Purple Brothers
 
-Kokary Holdings
+Sanna Galactic PLC
 
-Coalition of Ngaliba
+Amahu Labour
 
-Dragons of HIP 1914
+Tiethay Family
 
-Democrats of BD-02 4304
+Naungni Patrons of Law
 
-Union of Sowiio Green Party
+Ross 775 for Equality
 
-Independents of LHS 3262
+Mictlan Netcoms PLC
 
-Liberty Party of Theta Indi
+Official CD-61 6801 Flag
 
-United Wat Yu Confederacy
+Angurongo Patron's Principles
 
-Djinaura Order
+Marquis du Cailli
 
 When a faction experiences a lockdown, the security rating of the system it controls temporarily increases and the system's wealth temporarily decreases. Bounty hunting activity can shorten the lockdown period.
 
 Here are the latest factions to experience civil unrest:
 
-LHS 3479 Interstellar
+Wolf 359 Blue Travel Commodities
 
-Conservatives of HIP 41984
+Chamunda Crimson Gang
 
-WISE 0855-0714 Gold Gang
+Anduliga Empire Group
 
-Ross 490 Mafia
+Zeta Aquilae Free
 
-i Bootis Central Limited
+Jaques
 
-Independents of LHS 3262
+Dinde Systems
 
-Findja Empire Assembly
+LHS 535 Silver United Ltd
 
-Baraswar Crimson Vision Ltd
+United CD-61 6801 Democrats
 
-Opala Power Commodities
+Crimson Major Incorporated
 
-Tiethay Family
+Putamasin Future
 
 Civil unrest is the result of illegal activity. When a faction is affected by civil unrest, the standard of living in the system it controls temporarily decreases, as does the system's wealth. Combat missions and activities can bring civil unrest to an end.

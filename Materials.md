@@ -145,7 +145,7 @@ Available materials are:
 
 
 ## Micro resources
-Available on-foot micro resources area:
+Available on-foot micro resources are:
 
 |Name                           |Category            |
 |-------------------------------|--------------------|

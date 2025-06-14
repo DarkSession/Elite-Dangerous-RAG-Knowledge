@@ -1,5 +1,5 @@
 # Brain Tree
-[![Brain-Trees-in-Skaudai-JP-A-C29-5-3-A](https://static.wikia.nocookie.net/elite-dangerous/images/5/53/Brain-Trees-in-Skaudai-JP-A-C29-5-3-A.png/revision/latest/scale-to-width-down/300?cb=20171026003825)](https://static.wikia.nocookie.net/elite-dangerous/images/5/53/Brain-Trees-in-Skaudai-JP-A-C29-5-3-A.png/revision/latest?cb=20171026003825) 	 		 			 		 		 		 			
+
 Brain Trees on Skaudai JP-A c29-5 3 A
  		 	 
 
