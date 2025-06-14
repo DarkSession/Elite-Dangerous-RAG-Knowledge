@@ -1,0 +1,132 @@
+# Gibson Kincaid
+## Gibson Kincaid
+
+		
+
+## Biographical Info
+
+### Status
+
+Alive
+
+### Gender
+
+Male
+
+### Home System
+
+Zaonce
+
+### Allegiance
+
+Alliance
+
+### Occupation
+
+President of the Alliance (formerly)
+Commander-in-Chief of the Zaonce ADF fleet (formerly)
+Governor of Zaonce (formerly)
+
+**Gibson Kincaid** was the last individual to serve as President of the Alliance before that position was abolished in June 3305. He served as the Governor of Zaonce prior to assuming the Alliance presidency in 3303, and successfully ran for re-election in October 3304 against entrepreneur Fazia Silva and Councillor Elijah Beck. He was a vocal proponent of streamlining the Alliance's bureaucracy by expanding the powers of the office of Alliance President, but his proposal was ultimately rejected by the Alliance Assembly in favor of the creation of a presidential diplomatic corps.
+
+Kincaid's second term became turbulent as he began promoting militarism and acting beyond the purview of his office, and this aggression took a toll on his reputation. In May 3305, Councillor Beck accused Kincaid of campaign finance violations, and the Assembly approved a formal inquiry into the allegations. Further complicating matters, Council of Admirals member Frederick Yamamoto granted command of the Zaonce Alliance Defence Force fleet to Kincaid, giving an Alliance President the unprecedented power to issue orders to an ADF fleet directly. Alliance Prime Minister Edmund Mahon called on Kincaid to resign, but Kincaid rejected Mahon's demand.
+
+A major blow was dealt to Kincaid on June 1, 3305, when his ally Admiral Yamamoto was arrested for bankrolling the murder of Fazia Silva, which authorities believed was carried out to aid Kincaid's reelection campaign. The Council of Admirals assumed joint command of the Zaonce ADF fleet in Yamamoto's absence. On June 7, it came to light that Kincaid was behind a conspiracy involving Yamamoto and other influential individuals which sought to move the Alliance's capital to Zaonce and then establish Kincaid as the Alliance's supreme ruler. Kincaid was removed from office by the Alliance Assembly and arrested by Alliance Interpol on June 13 on charges of treason, murder, and corruption. On June 21, the Assembly abolished the Alliance presidency entirely, citing Kincaid's crimes as proof that the position was vulnerable to abuse.
+
+## Timeline
+
+19 JAN 3307
+
+- Edmund Mahon has launched a political campaign to be elected as the Alliance's leader for a second term. The incumbent prime minister is undertaking a whistle-stop tour across Alliance space to rouse support. Only members of the Assembly can cast votes in this election, but they will be heavily influenced by public opinion within their systems. Mahon's campaign has focused on the Alliance's huge expansion during his six-year premiership, with reminders of triumphs such as the Alliance Festival of Culture. His ability to handle a crisis has also been highlighted, including President Kincaid's attempted coup and the League of Reparation's crusade. More recent examples of his leadership are welcoming Marlinist refugees from the Empire and exploiting the Coalsack Nebula to boost economic prosperity. However, Mahon's critics have pointed out that both strategies increased the risk of attack from Neo-Marlinist terrorists and the Thargoids. Addressing a packed conference hall on Birmingham in his home system of Diso, Mahon proclaimed: "We live in an increasingly turbulent galaxy, making it important to maintain a steady hand at the wheel. I will be honoured to continue representing the diverse peoples of the Alliance."^[1]^
+
+27 JUL 3305
+
+- Prime Minister Edmund Mahon has announced the start of the Alliance Festival of Culture, a series of events taking place across seven systems. The Alliance Tribune's cultural correspondent Corinne Macintyre provided a summary of the festival: "This seven-week tour of Alliance space will begin at the Fine Art Emporium on Lave. We have been promised that a wide range of artistic achievements, entertainment and history will be highlighted. Naturally, the Tribune will be offering in-depth coverage over the course of the festival." The prime minister was visibly pleased to introduce the Alliance Festival of Culture, describing it as "a celebration to lift citizens' spirits in these challenging times". It has been speculated that Mahon is hoping to move forward from the recent political scandals involving Gibson Kincaid. The centrepiece of the opening ceremony was a tribute to Megan Madigan, widely considered one of the most significant visual artists of the late 33rd Century. Her most famous work, titled 'Penance Street', was tragically lost in transit sixty years ago. The much-loved painting was honoured by modern reinterpretations from dozens of Lave's finest artists.^[2]^
+
+21 JUN 3305
+
+- The Alliance Assembly has permanently dissolved the role of President of the Alliance, following the recent revelations about Gibson Kincaid's multiple crimes. Summarising the vote, Prime Minister Edmund Mahon said: "Recent events have made it clear that the presidential position is open to misuse, which places the integrity of the Alliance at risk. Following a thorough debate on the matter, this Assembly has voted – by an overwhelming majority – to remove the role from our constitution. The defunct Office of the Alliance President will now be restructured. Many emissaries will be retained to serve as the non-political ambassadors they were intended to be. Councillor Elijah Beck has volunteered to resign in order to oversee the new department. We hope that this unfortunate chapter of Alliance history has now been brought to an end." An earlier vote held during the same session has selected Admiral Tahir West of the Tionisla fleet to join the Council of Admirals, replacing the disgraced Frederick Yamamoto.^[3]^
+
+13 JUN 3305
+
+- President Gibson Kincaid has been removed from office after a majority vote in the Alliance Assembly, following charges of treason, murder and corruption. The date of his trial is expected to be confirmed soon. Alliance Interpol confirmed that Kincaid was detained while attempting to flee his personal estate on Zaonce. A firefight broke out between Interpol agents and emissaries from the Office of the Alliance President, acting as Kincaid's personal bodyguards. Several fatalities were later confirmed. A number of influential corporate and political figures who supported Kincaid's conspiracy to gain executive control of the Alliance have also been arrested, including a senior director at the Bank of Zaonce. Prosecutions are expected to rely heavily on the recent testimony of Admiral Frederick Yamamoto and a detailed report provided by the Wallglass Investigations Agency. Tashmira Silva, who privately commissioned the report, told the media: "I am satisfied that Kincaid will at last face justice for his crimes, including my sister's murder. Fazia championed fairness, and succeeded as an entrepreneur by believing in others, she would be pleased to know that the Alliance has been purged of such a corrupt presence."^[4]^
+
+07 JUN 3305
+
+- The Alliance Tribune has revealed that Admiral Frederick Yamamoto has committed multiple crimes at the behest of Alliance president Gibson Kincaid. In a detailed report, journalist Vanya Driscoll said: "As part of a plea bargain to avoid life imprisonment, Yamamoto has provided Alliance Interpol with data regarding actions carried out on the direct orders of President Kincaid. Along with the assassination of presidential candidate Fazia Silva, Yamamoto arranged to murder, injure and intimidate many others to facilitate Kincaid's rise to power. The admiral coordinated his efforts with a number of influential corporate, military and political figures, who allied themselves with Kincaid in exchange for certain advantages. This included a Bank of Zaonce senior director, who illegally redirected funds to bankroll Kincaid's re-election campaign. Kincaid's ultimate aim was to transfer executive power from Alioth to Zaonce, establishing a base of support to eventually become the supreme ruler of the Alliance. But with such a detailed and damning testimony from Yamamoto, it seems impossible that his presidency can survive these revelations."^[5]^
+
+01 JUN 3305
+
+- Admiral Frederick Yamamoto, head of the Alliance fleet in Zaonce, has been charged with the assassination of former presidential candidate Fazia Silva. The shocking statement was delivered by Tashmira Silva, who became CEO of Silva Holdings Inc after her sister's death: "When the inquiry into Fazia's murder closed, I hired the Wallglass Investigations Agency at great expense to uncover the truth. They identified that a professional assassin with a background in the Alliance Defence Force was responsible. Unravelling a complex trail of financial evidence and encrypted communications led directly to Admiral Yamamoto. He personally arranged to have Fazia killed during the presidential election campaign, presumably to remove her political threat to his friend Gibson Kincaid." Alliance Interpol recently verified the Wallglass report and has now detained Yamamoto pending trial. The Zaonce fleet has been placed under the joint command of the Council of Admirals. There has been no comment from President Kincaid.^[6]^
+
+24 MAY 3305
+
+- Prime Minister Edmund Mahon has called on President Gibson Kincaid to step down pending an official inquiry. Addressing the Alliance Assembly, Mahon said: "President Kincaid's decision to assume direct command of the Zaonce fleet, coupled with allegations of illegal campaign funding, justify the suspension of his presidential term. Kincaid is now being protected by Admiral Yamamoto's ships as well as emissaries from the Office of the Alliance President. This autocratic behaviour must cease, and Kincaid must cooperate with our investigation or face impeachment." President Kincaid issued a response from his private residence in Zaonce: "These false accusations are further proof that the Alliance needs a single, strong leader. Unless the Assembly has irrefutable proof of illegality, the constitution states they cannot force me out of office."^[7]^
+
+18 MAY 3305
+
+- President Gibson Kincaid has been named commander-in-chief of the Alliance Defence Force fleet in the Zaonce system. Journalist Vanya Driscoll reported on the development for The Alliance Tribune: "Admiral Frederick Yamamoto has announced that the Zaonce fleet now takes orders directly from the president, in direct breach of the existing ADF command structure. The move is widely perceived to be a deliberate show of strength from President Kincaid, who is currently under investigation for illegal campaign funding. Admiral Yamamoto is known to be a personal friend to Kincaid, from the latter's time as governor of Zaonce. The Council of Admirals has demanded that Yamamoto rescinds this decree. Admiral Rachel Ziegler condemned the decision as 'political grandstanding that borders on treason'." While President Kincaid has accepted the authority, he has yet to issue any orders to the ADF fleet stationed in Zaonce.^[8]^
+
+10 MAY 3305
+
+- President Gibson Kincaid has refuted allegations of illegal campaign funding and is refusing to cooperate with the official inquiry. He gave this statement to The Alliance Tribune: "The claims are nothing more than an attempt to besmirch my reputation. Councillor Elijah Beck has fabricated this wild mudlark chase as revenge for his loss to me in the presidential vote last year. If the Assembly wants to entertain conspiracies, they could review the assassination of Fazia Silva, the third presidential candidate. It's interesting that Beck's own campaign gained a lot of support after Silva was murdered." The Bank of Zaonce has also declined the inquiry's requests for information. A spokesperson insisted that all campaign funds it handles adhere to strict financial guidelines. They added that Beck's evidence was deemed insufficient until a verified source could be provided.^[9]^
+
+04 MAY 3305
+
+- President Gibson Kincaid has been accused of receiving illegal campaign funding via the Bank of Zaonce. Councillor Elijah Beck presented evidence to a special session of the Alliance Assembly: "During September 3304, President Kincaid's re-election campaign received several billion credits worth of undeclared funds. I have received data suggesting that these transactions were secretly arranged by a senior figure within the Bank of Zaonce. Regrettably I cannot reveal the source of this evidence since it constitutes part of an ongoing investigation. However, I call upon the Assembly to open an official inquiry to establish if there was any violation of campaign finance law." Councillor Beck's proposal was approved by a majority vote, after which Prime Minister Edmund Mahon authorised the inquiry to begin immediately. As yet there has been no comment from President Kincaid.^[10]^
+
+26 APR 3305
+
+- Prime Minister Edmund Mahon has once again clashed with President Gibson Kincaid, following the latter's attempt to take control of government policy during an Assembly session. Political journalist Vanya Driscoll reported for The Alliance Tribune: "There were dramatic scenes in the Assembly as President Kincaid sought to steer debates on military strategy, making several demands for increased funding towards new fleets. Prime Minister Mahon eventually stepped in and rejected these proposals outright. Kincaid was further reminded that a prior request for executive presidential powers had been unsuccessful, even if he insists on behaving otherwise. Although he still has supporters, a number of councillors have privately opined that Kincaid is now a toxic presence at odds with the Alliance's ethos."^[11]^
+
+07 FEB 3305
+
+- President Gibson Kincaid has sought to illustrate potential threats to the Alliance, highlighting isolationist group Nova Imperium as an example. Speaking to the Alliance Tribune, President Kincaid said: "The rise of such radical beliefs demonstrates how quickly the other superpowers might turn against us. Had the recent military conflict ended differently, the Empire would have callously abandoned humanity's united struggle against the Thargoid threat. All other leaders are looking elsewhere, pretending Nova Imperium never happened. But I have the courage to give a voice to our people's fears. The Alliance must prepare to stand alone against any aggressor, whether human or alien!" Prime Minister Edmund Mahon later released a brief response: "I remind President Kincaid that his focus should be on diplomatic duties, as agreed by the Assembly. Inter-superpower cooperation against the Thargoids remains unchanged, and the Empire's internal politics do not concern the Alliance."^[12]^
+
+21 NOV 3304
+
+- Admiral Frederick Yamamoto has been announced as the sixth member of the Alliance Council of Admirals. The position had been vacant for months after the previous appointment, Riri McAllister, was discovered to be the coordinator of terrorist group the League of Reparation. The induction ceremony was conducted by Fleet Admiral Hayley Sorokin, who said: "After many years commanding the Alliance Defence Force in the Zaonce system, Admiral Yamamoto has more than earned his place on the Council. His experience will help enhance security for all member systems." Vanya Driscoll, political journalist at The Alliance Tribune, commented: "Many expected the role to be filled by an officer from the Lave fleet rather than Zaonce, so the decision has ruffled some feathers. It has also not gone unnoticed that Admiral Yamamoto is a close personal friend of President Gibson Kincaid."^[13]^
+
+31 OCT 3304
+
+- The investigation into the death of Alliance presidential candidate Fazia Silva has concluded. No convictions have been made. Inspector Erin Sangster of Alliance Interpol made this statement: "The death of Fazia Silva has been officially ruled as homicide. The use of a sophisticated nerve toxin and the circumvention of security at Hume Orbital suggests the involvement of one or more professional assassins. Unfortunately, we have now exhausted all possible avenues of investigation, and are left with no option but to consider the case closed." President Gibson Kincaid told the media: "I have no doubt that the murder of Ms. Silva was designed to disrupt our democracy, and I will not rest until the Alliance's enemies pay for their crimes." Tashmira Silva has now assumed permanent control of her late sister's corporate empire.^[14]^
+
+26 OCT 3304
+
+- The Alliance Assembly has concluded its debate over President **Gibson Kincaid**'s request for executive powers. Prime Minister Edmund Mahon announced the decision: "The Assembly has voted that President Kincaid's proposed changes to the constitution will not be adopted, and no executive powers will be granted. There was broad agreement, however, that the role should be updated, which has resulted in the creation of a new non-political department: the Office of the Alliance President. The president will now oversee a team of ambassadorial emissaries who will focus on diplomatic functions. This will free up council members, allowing them to govern more effectively. The presidential term has also been extended to three years." President Kincaid told the media: "I regret that the Assembly cannot see how the Alliance would be strengthened by an empowered president, but I must respect their decision, and promise to put my new team of emissaries to good use."^[15]^
+
+17 OCT 3304
+
+- Gibson Kincaid was announced as the winner of the Alliance presidential election. He will continue serving as president of the Alliance. Kincaid obtained a small majority of the public vote, defeating Councillor Elijah Beck. Entrepreneur Fazia Silva, the third candidate in the race, was recently found dead, and is the subject of an Interpol investigation. President Kincaid addressed his followers at a victory rally: "My thanks go to every citizen who saw the wisdom of my vision. I vow to lead you into a glorious future!" Prime Minister Edmund Mahon gave a statement to the media: "I offer my congratulations to President Kincaid on being successfully re-elected. The Assembly is continuing to debate his proposal to imbue the presidential role with executive powers. We have agreed to extend the deadline by one week, after which a parliamentary vote will decide the outcome."^[16]^
+
+13 OCT 3304
+
+- The two remaining candidates in the Alliance presidential race returned to the Alioth system to make their final campaign vows. In the parliamentary chamber of the Assembly, Elijah Beck addressed his fellow council members: "The Alliance occupies a unique position, and as such must remain true to its principles. My focus as president will be on attracting more independent systems to our interstellar family." He was followed by the current incumbent, President Gibson Kincaid: "Fazia Silva's assassination was an assault on our democracy. The Alliance's enemies are growing bold, and we must do the same. I beseech the Assembly to imbue the presidential role with executive powers, to transform our Alliance into a true superpower capable of challenging its adversaries." Prime Minister Edmund Mahon thanked both candidates and wished them good luck in the election. The public vote will take place on Tuesday the 16th of October and the results will be announced later that week.^[17]^
+
+05 OCT 3304
+
+- Alliance presidential candidate Fazia Silva was found dead in her room at Hume Orbital, Mullag, and authorities believed she had been murdered. Inspector Erin Sangster of Alliance Interpol informed the media: "Ms. Silva's body was found in a room at Hume Orbital, where she was staying during her presidential campaign. Medical teams detected traces of poison, making this a suspected homicide." There has already been speculation that this was a political killing, motivated by Silva's proposed changes to Alliance financial policy. The entrepreneur also had fierce rivals in the business world. Her sister Tashmira Silva, who has been overseeing the Silva corporate empire, stated: "Our family is devastated – we can't believe that Fazia has been taken from us. I will honour her by continuing to run the companies that she made so successful." Condolences have been delivered by Prime Minister Edmund Mahon and both of Ms Silva's election rivals, Gibson Kincaid and Elijah Beck. President Kincaid said: "This tragedy constitutes a direct attack on our democracy. The Alliance's enemies will do anything they can to destabilise us, including murder. If we are to fight back, we will need strong leadership."^[18]^
+
+27 SEP 3304
+
+- The three candidates for the Alliance presidency have spent much of the past week delivering their campaign messages. Incumbent president Gibson Kincaid, who seeks re-election, has demanded radical change to the constitution: "To occupy the same league as the other superpowers, we need a single ruler with overall control. I ask that you empower me to lead the Alliance into a new era of strength and unity. That is my vision."^[19]^
+
+21 SEP 3304
+
+- With the Alliance presidential race gathering speed, political journalist Vanya Driscoll has published an analysis in The Alliance Tribune: "The election of a new president is usually a ceremonial matter, during which voters select a public 'face' for the Alliance, but this year is a genuine power struggle – one that may have major consequences. Elijah Beck is the only candidate who seems content with the status quo. By contrast, entrepreneur Fazia Silva promises to boost the economy and increase commerce. Her new financial policies have been welcomed by interstellar corporations and small businesses alike. President Gibson Kincaid is causing the most controversy, however. His proposal that the role of president should include executive powers is being taken seriously by the Assembly. Kincaid claims that having a single controlling voice will enable the Alliance to 'challenge our rivals' dominance'. There is a surprising amount of support for this combative rhetoric. Many agree that the Alliance could be stronger, and that Prime Minister Mahon is often hamstrung by bureaucracy. Rumours suggest that the Empire and Federation are watching this election far more closely than usual."^[20]^
+
+14 SEP 3304
+
+- The other two candidates running against President Gibson Kincaid in the Alliance presidential election officially launched their campaigns. Alliance Tribune political journalist Vanya Driscoll stated: "Fazia Silva is a successful entrepreneur from the Vamm system. Although lacking political experience, she intends to leverage her business acumen to increase trade and boost economies throughout the Alliance. She has delegated control of her corporate empire to her sister, freeing her to run for office. Elijah Beck, by contrast, is a highly experienced politician. Hailing from the Leesti system, he has served in the Assembly for over four decades. He is generally considered a safe pair of hands, but it's unlikely that he would bring about any significant changes as president. Recent polls suggest that Kincaid, Silva and Beck are roughly equal in terms of popular support, but it's still early days. All three will vigorously campaign for support in the coming weeks, in advance of the public vote on Tuesday the 16th of October."^[21]^
+
+13 SEP 3304
+
+- The Alioth Independents announced that their appeal for exotic foods and drink for the upcoming Alliance Presidential Gala was a success. Chairman Durien Ballas stated, "This will be an event like no other, and we are proud to be introducing Fazia Silva and Elijah Beck to the galactic stage. Along with Gibson Kincaid, I'm sure they will soon do battle in a good-natured yet robust election campaign."^[22]^
+
+05 SEP 3304
+
+- The Alliance Assembly agreed to hold an internal vote on Alliance President Kincaid's proposed changes to the constitution, which would restructure the Alliance's political system to allow the Alliance President to serve a single six-year term and grant the office the authority to make all executive decisions. Prime Minister Edmund Mahon announced that the vote would be held in mid-October, at the same time as the next presidential election. Milo Vesper of the Alliance Tribune commented: "President Kincaid's proposals are seen by some as a long-overdue restructure of the political system. Compared to the current bureaucratic procedure, having a single person make all executive decisions has an obvious appeal. But some in the Assembly are concerned that such changes could imbue the president with emperor-like levels of authority. Prime Minister Mahon is playing down such fears, but the words 'constitutional crisis' have already been heard in Parliament. Whatever happens, this could be the most significant election in the Alliance's history."^[23]^
+
+31 AUG 3304
+
+- Alliance President Gibson Kincaid has confirmed he will campaign for re-election in October. Addressing the media, President Kincaid also said he wanted to make significant changes to the Alliance constitution: "The role of Alliance president is largely ceremonial. I believe that should change. I have been lobbying to invest the position with executive powers, over and above the prime minister and the Assembly. By streamlining our bureaucracy, we can make decisions as efficiently as the other superpowers. I also believe that each presidential incumbent should remain in office for six years, instead of a maximum of two one-year terms. That will allow time to renegotiate diplomatic relationships and correct past mistakes." Gibson Kincaid was the governor of the Zaonce system before assuming the presidency in 3303. He has repeatedly claimed that the Alliance is failing to fulfil its true potential. Prime Minister Edmund Mahon responded: "Our constitution has served us well for decades and I see no reason to amend it. Its system of checks and balances exists to prevent any individual from becoming too powerful and destabilising the Alliance." The other presidential candidates will be announced within the next two weeks.^[24]^

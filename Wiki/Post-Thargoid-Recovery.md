@@ -1,0 +1,2 @@
+# Post-Thargoid Recovery
+**Post-Thargoid Recovery** is an event that occurs when all Thargoids are successfully repelled in a star system. The human inhabitants of the star system will attempt to repair all the damaged stations, surface ports and settlements. The repairs can take days or weeks. Pilots can boost the repair progress by assisting via the list of the Thargoid war status in the Galaxy Map. A victory state can also leave the system unpopulated.

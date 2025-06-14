@@ -1,0 +1,4 @@
+# Emerald Treaty
+The **Emerald Treaty** was ratified by the Federation and the Empire in 3136. The treaty ended the long, violent dispute between the two superpowers over control of Cemiess and its most important world, Emerald, and recognised the system as a territory of the Empire. In exchange, Emperor Hender Saik Duval made several concessions to the Federation, most notably the abolition of Imperial Slavery in Cemiess.^[1]^
+
+The terms of the Emerald Treaty were highly controversial within the Empire and criticised by several senators. The criminalisation of Imperial Slavery in Cemiess also only served to push the local slave trade into the black market rather than eliminate the practice, which endangered the lives of Imperial Slaves.^[1]^

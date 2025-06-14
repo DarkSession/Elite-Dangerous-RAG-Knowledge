@@ -1,0 +1,111 @@
+# Acronyms & Slang
+Below is an alphabetical list of **Acronyms & Slang** commonly used among players of *Elite Dangerous*, as well as in-universe terminology with meanings that are not immediately clear to the casual observer.
+
+- **AFMU:** Auto Field-Maintenance Unit.
+- **AspX:** Abbreviation of the Asp Explorer.
+- **ASPX:** Another, incorrect abbreviation of Asp Explorer. Used by players under the misconception that the word "Asp" is an acronym ("ASP Explorer"); an "asp" is another word for a "viper", following the *Elite* series' trend of naming some ship models after snake species.
+- **AX:** Anti-Xeno. Used to refer to any activities or ship builds relating to combat with Thargoids.
+- **Allie:** An NPC or player aligned with the Alliance. Pronounced as "all-ee" instead of "ally".
+- **Barnacle:** The partially organic resource fabric placed on planet surface by Thargoids. You can gain usual and special resources from there via your SRV.
+- **Basking:** Refers to the sensation of awe or enjoyment some players feel in locations that are especially visually impressive. Also refers to an opportunity to take an interesting screenshot, often with the player's ship as a main focus. The term originated from phrases painted outside the Access Corridors of Imperial-controlled stations: "Hail the Emperor - Bask in His Greatness" (this was updated to "Bask in Her Glory" after Emperor Hengist Duval was succeeded by Arissa Lavigny-Duval).
+- **BGS**: Background simulation, the influence to galactic processes from player's actions. This means your decisions may change states of Minor factions in affected systems, cause some fluctuations in the Commodity market...
+- **Big Blue Beluga:** A term used when one comes across an invincible, Elite NPC flying a Beluga Liner with a vibrant blue paint job with unlimited health will interdict and destroy an unsuspecting player for an unknown reason. Only a small amount of encounters have been reported and the so-called "Big Blue Beluga" phenomenon is very likely to be a bug in the game.
+- **Board Flipping:** The obsolete practice of switching between Open/Private Group/Solo modes to force mission boards to refresh and present new missions, usually done to stack multiple missions of the same type to maximize convenience and profitability. While viewed with distaste by a segment of the community, Frontier Developments confirmed that Board Flipping was not an exploit or violation of the game's Terms of Service. Board Flipping was effectively neutralised with update 3.3, which implemented a dedicated server for missions that made missions consistent across all game modes.
+- **Boiling:** Silent Running near a star or a station orbiting close to a star.
+- **Braben's suitcase:** Ship's Locker section inside which transfers with you to another ship and containing collected materials and data.
+- **Breadloaf**: User-given name of the Type-7 Transporter, because it just flying loaf by the shape.
+- **Brick:** Nickname for the Type-6 Transporter, due to its brick-like appearance.
+- **Buggy:** Surface Recon Vehicle.
+- **Carebear:** A player who plays in Open, but believes that other players have no right to interfere with them regardless of the circumstances. Carebears complain at length whenever their ship is destroyed by another player despite Open's primary purpose being to facilitate PvP activity, and ship destruction at the hands of another player being a well-recognized risk of playing in Open. They also often demand that Frontier Developments either reimburse them the rebuy fee or fully restore their ship and any cargo in the event they could not afford the rebuy, as well as punish the attacker. Due to this behavior, Carebears are considered an entitled and toxic element of the community. Carebears are not to be confused with victims of Ganking or Griefing, which involves the deliberate and repeated destruction of a player's ship with the intent of provoking an emotional reaction from the victim for the attacker's personal amusement.
+- **CG:** Community Goal. Commanders can sign up for missions and community rewards at stations that are hosting a community goal.
+- **CMDR:** Abbreviation of Commander, the title granted to all players by the Pilots Federation.
+- **Combat Logging:** See Combat Logging. The act of shutting off the game during combat or when being interdicted. Unlike typical "rage-quitting", the goal is generally to avoid a potential loss of one's ship (and any commodities their ship may be carrying) and paying for the rebuy. The practice is viewed with distaste by much of the community and considered an exploit by Frontier Developments, since they forbids workarounds of planned game mechanics .
+- **Conda:** Short term for an Anaconda. Not to be confused with the F63 Condor, a ship at the other end of the size spectrum. Build is often tagged on: shieldconda, plasmaconda, cannoconda, etc.
+- **Crashsite**: Planetary object of crashed ship, can be stationary as POI and temporary as mission target.
+- **CQC:** Close Quarters Combat. A competitive sport in which participants remotely pilot certain small ships and fighter craft in combat against each other. CQC is playable in *Elite Dangerous* as a secondary game mode accessible from the main menu.
+- **CZ:** Conflict Zone. A region of space currently in a state of conflict between two local factions.
+- **DBS:** Short term for the Diamondback Scout.
+- **DBX:** Short term for the Diamondback Explorer.
+- **Death Flower:** Slang for a Thargoid Interceptor.
+- **DSS:** Detailed Surface Scanner.
+- **FD**: First Discovered. Signifies the player who first discovered a particular astronomical object.
+- **FDev:** Also spelled "Fdev". An abbreviation of Frontier Developments, the developers of *Elite Dangerous*.
+- **FDL:** Short term for the Fer-de-Lance. Could also be used to refer to Faulcon DeLacy, but isn't typically used to do so.
+- **Fed:** An NPC or player aligned with the Federation. Also occasionally used to refer to the Federation itself.
+- **Feeding the Bugs**: An action in Thargoid's POIs or anywhere they're presented which consist of dropping some meta-alloys from the cargospace. Like the act of peaceful intentions.
+- **Flatiron:** Any federal snip based on Federal Assault Ship, because visually it is an iron and flies like iron.
+- **Freagle:** The free Eagle MkII given to players who pre-ordered Elite Dangerous.
+- **Freebooter:** A term originally said by authority vessels against a pilot caught doing an illegal action. An illegal plunderer, pillager, or invader.
+- **Friendship Drive:** Affectionate term for the Frame Shift Drive based on the pronunciation of the Verity COVAS.
+- **FSS:** Full Spectrum System Scanner. Most players refrain from using three S's in the abbreviation.
+- **Ganking:** Attacking another player when the odds are greatly against the victim, i.e. they have a much less powerful ship, are new to the game, or are greatly outnumbered. If unjustified by any game mechanic such as Powerplay or piracy, it may be considered abusive. Repeated ganking can be considered Griefing.
+- **Gold Rush:** When a large number of players flock to an area to take advantage of missions that are extremely profitable and also low-risk, fast to complete, or very simple. Gold Rushes are generally not considered exploits, but are often caused by bugs or oversights, and Frontier Developments is quick to take action to end them once they are widely known. See here for a list of previous Gold Rushes.
+- **Grandma**: The first engineer of all newcomers, Felicity Farseer.
+- **Griefing:** The act of deliberately agitating or harassing other players. See Griefers for more information.
+- **Grinding:** Completing repetitive tasks many times over in order to get game rewards. Grinding is generally not considered enjoyable, and can be a criticism of game mechanics. Also can be the hallmark of a particularly determined player, however.
+- **HazRES:** A Hazardous Resource Extraction Site. These sites don't enjoy the authority protection that other resource sites do.
+- **HGE:** High Grade Emissions.
+- **HiRES or HighRES:** A high intensity Resource Extraction Site, one where pirate or hostile activity is high.
+- **High Wake:** An inter-system jump, or hyperspace; the wake left behind by a ship entering hyperspace.
+- **Hot Soup:** Fuel scooped from a star.
+- **II:** Interstellar Initiative.
+- **Imp:** An NPC or player allied with the Empire and flying an Imperial vessel.
+- **Khinkal**: Scout ship of the Thargoids, since it is very similar to such food piece.
+- **KGBFOAM:** An easy-to-remember acronym for the star types that can be scooped for fuel. The galaxy map allows route filters to be applied relating to — amongst other criteria — star type.
+- **KWS:** Short term for Kill Warrant Scanner.
+- **Letter Box:** A term for a station's Access Corridor.
+- **Lithobraking:** A humorous term for bringing a ship to a complete stop by colliding with a landable planet's surface, resulting in the loss of the ship. A common and unintentional occurrence on high-gravity worlds.
+- **Loop of Shame:** term for missing (station etc.) in supercruise, and needing to loop around to jump out.^[1]^
+- **LoRes or LowRes:** A low intensity Resource Extraction Site, one where pirate or hostile activity is low.
+- **Low Wake:** An intra-system jump, or supercruise; the wake left behind by a ship entering supercruise.
+- **LTD**: Low temperature diamonds, a rare mineral commodity.
+- **Mailslot**: Another term for a station's Access Corridor.
+- **Mass Jump:** When a large group of ships in the same instance jumps to hyperspace at the same time. Most commonly done during player expeditions. See Mass Jump.
+- **Meta:** The metagame, the "game within a game". Originally a term from chess, it refers to advanced players making study of game mechanics to gain further advantage. See Engineers.
+- **Noise Machine:** An Adder, particularly its sounds disliked by many players.
+- **Noob Hammers:** Refers to the long "arms" that can be present on the exterior of certain Coriolis stations. Since docking with such stations can require piloting around the rotating arms to reach the Access Corridor, inexperienced pilots have been known to collide with them.
+- **NPC:** Non-player character. This is a broader term, coined in the early days of multiplayer games, used to describe characters that are not players, but are under computer control.
+- **NSP:** Notable Stellar Phenomena. A Point of Interest found in space with scannable anomalies.
+- **o7:** An emoticon for a salute. Used to say hello or goodbye, or offer praise or recognition.
+- **OC:** Orbital cruise.
+- **Open**: The short name of Openplay, the gamemode where all players can see each other and interact each other. Usually is the place for PvP as gameplay part.
+- **Orbiting**: Flying around a target on FAoff, constantly manuevering outside it's target vector.
+- **POI:** Point of interest, typically a rocky outcrop or some other scannable or collectable item on a planet's or moon's surface. See also USS, WSS, SSS.
+- **PA:** Short term for Plasma Accelerator.
+- **PAC:** Another term for Plasma Accelerator.
+- **Permaboost:** The capability to boost as frequently as possible, achievable on some ships by upgrading and engineering the Power Distributor.
+- **Pills:** Short term for the narcotics commodity.
+- **PMF**: Player Minor Faction.
+- **PP:** Powerplay.
+- **PSG:** Short term for Prismatic Shield Generator.
+- **Prismos:** Another term for Prismatic Shield Generator.
+- **PvE and PvP:** Player vs Environment (fighting NPCs) and Player vs Player. The distinction is necessary because both can lend themselves to radically different ship builds and playstyles.
+- **Railwinder**: Slang for a battle Sidewinder with railguns installed in the hardpoint slots.
+- **Redbull Can/The Cigar:** Deployed mine, cylinder-looking shape.
+- **RES:** Short term for Resource Extraction Site.
+- **Salt**: The negative reaction of someone in case of harrassment of some kind. Usually is target to achieve for gankers and griefers. Usual meanings is they are too salty, because loosing emotional control and raging at the opponent.
+- **SC:** Supercruise.
+- **SCB:** Shield Cell Bank, an optional module used to quickly regenerate shields.
+- **Sidey:** Short term for a Sidewinder.
+- **SLF:** Ship Launched Fighter. A small, manoeuvrable craft fitted with weapons and launched to support a larger ship in combat.
+- **Space Cow:** The Lakon Type-9 Heavy.
+- **Space Madness:** A sense of disorientation and confusion that some pilots get while traveling in deep space for long periods. It is somewhat like vertigo, and is caused by being adrift without any visual reference points. Sufferers are suggested to take a brief break from the game.
+- **SRV:** Surface Recon Vehicle.
+- **Suicidewinder:** Refers to the practice of purchasing a Sidewinder MkI while storing one's original ship, then self-destructing in order to access the rebuy screen and use it to "teleport" back to one of the game's starting systems. This is usually done by players well outside the bubble who want to quickly return there for whatever reason. Once in the bubble, players will then switch to another ship or have their original ship transferred to them.
+- **Tank:** A ship build optimised for "tanking" (absorbing) the largest possible amounts of damage. Tanking comes in two forms in *Elite Dangerous*: shield tanking (shields are optimised), and hull tanking (armour is optimised). Shield tanking is usually considered stronger than hull tanking, but it is vulnerable to Reverberating Cascade torpedoes.
+- **Tin Can**: An occupied escape pod.
+- **The Black:** Open space within a system, or the vast, mostly unexplored regions of the galaxy outside of the Core Systems.
+- **The Bubble:** A nickname for the Core Systems, the centre of human civilisation in the galaxy.
+- **The Saga**: Sagittarius A\*, the supermassive black hole in center of Milkyway galaxy. Is one of main target points to long-distance travels, such as Colonia and Beagle Point.
+- **Trader**: Player with playstyle of trading goods and earn profit. May be part of BGS and often has the fleet-carrier as personal mobile market.
+- **Thimpets**: Thargoid "limpets", used by Thargoid Hunters to collect human cargo.
+- **Thirsty:** A ship that is low on fuel.
+- **Toast Rack:** The metal frame structure outside of a station's airlock.
+- **Trash Can:** A cargo canister containing scrap, biowaste or other waste commodities.
+- **The Mug**: Commodity example on the station's market, can be sold to a player on Hutton Orbital station in Alpha Centauri system. Notable part that obtaining this item is a community challenge for any pilot, because planet with such station is orbiting at 0.22LY from main star and you can only supercruise all that distance.^[2]^
+- **Ugly Duckling:** An Adder, compared to the other vessels manufactured by Zorgon Peterson.
+- **Useless Dreg:** Common insult originally coming from pirates after a scan shows no cargo.
+- **USS:** Short term for Unidentified Signal Source.
+- **Whale:** Originally exclusively used to refer to the Orca due to the ship model taking its name from a whale species. With the subsequent addition of the Beluga Liner, the term is now used to refer to either ship.
+- **Winder:** Another short term for a Sidewinder.
+- **Witch's Cauldron:** Thermal sphere around a star where the FSD stops working properly and drops you out to be cooked in star's corona.

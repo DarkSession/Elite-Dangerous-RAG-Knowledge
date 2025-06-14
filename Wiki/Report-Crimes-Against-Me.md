@@ -1,0 +1,6 @@
+# Report Crimes Against Me
+**Report Crimes Against Me** is a feature that is found in the the right of the ship HUD. It can be found in the "Ship" tab and "Pilot Preferences." It is a feature that, if someone attacks you or you lose an Interdiction if not wanted, authorities will drop in, scan the attacker (or interdictor), and if they detect the target that is attacking or interdicted on you, they will gain a bounty or find them and attempt to destroy them. 
+
+In the event of Assassination missions or Bounty Hunting, it is recommended to turn this off. When the authorities destroy the bounty target, you will not gain a claim. Also, if authorities destroy the target that is needed to destroy in an assassin mission, you will fail that mission and be forced to discard that mission. 
+
+It can be turned on or off; however, once you turn it on, you need to wait for about ten seconds until it takes effect. If you turn this off, you will also need to wait for ten seconds until it can be turned off.

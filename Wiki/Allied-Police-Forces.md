@@ -1,0 +1,2 @@
+# Allied Police Forces
+The **Allied Police Forces** are the police forces of the Alliance. Their ships, with the identifier *"Allied Police Forces"*, do security patrols and law enforcement in all Alliance systems.

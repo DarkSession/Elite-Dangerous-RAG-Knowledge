@@ -1,0 +1,4 @@
+# Federal-Imperial Treaty
+The **Federal-Imperial Treaty** is the conjectural name for a treaty ratified by the Federation and the Empire in 2381. The two superpowers began negotiations in 2379 to end the decades-long cold war that followed the Battle of Achenar, with Sirius Corporation serving as mediator. In addition to concluding the cold war, the treaty also required the Federation to grant full autonomy to Achenar and its subsidiary colonies, as well as recognise the hereditary title of Emperor.^[1]^
+
+Emperor Henson Duval considered the terms of the treaty to be a victory for the Empire, and to commemorate the event, he ordered the construction of the Hall of Martyrs beneath the Imperial Palace on Capitol to serve as a monument to the Imperial citizens who died defending Achenar from the Federation.^[1]^

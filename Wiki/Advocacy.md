@@ -1,0 +1,46 @@
+# Advocacy
+## Advocacy
+
+### Leader(s)
+
+Rhiannon Grady (Director)
+
+### Location
+
+Galaxy-wide
+
+### Type
+
+Civil rights organisation
+
+### Purpose
+
+Support the cause of civil rights
+
+**Advocacy** is a civil rights organisation. In 3307, it repeatedly spoke out against the Proactive Detection Bureau, a Federal agency created under the Domestic Counter-Terrorism Act to monitor public and private comms networks across Federation space for criminal and terrorist activity, and subsequently warned that the Federal Intelligence Agency was arresting secessionists on spurious charges after several Federal factions opposed to the PDB considered declaring their independence. In November 3307, it also supported the Scriveners Clan's ownership claim to The Scriveners Clan Dredger after Orion University attempted to seize the ship.
+
+## Timeline
+
+09 NOV 3307
+
+- The nomadic Scriveners Clan continues to resist Orion University's attempts to take possession of their dredger. Freelance reporter Casey Kilpatrick published an update from the Oochost PC-C c29-0 system: "Orion University's claim that the vessel is their property has been countered by Advocacy's reminder of laws preventing cultural contamination. So the question now is: who actually owns the dredger? Is it the families that have lived there for generations, or the organisation which originally built it? Various solutions have been proposed to resolve this stand-off. These include an offer from Canonn Interstellar Research Group to purchase the dredger from Orion University, gift it to the Scriveners Clan then publicly share the contents of their mysterious Knowledge Core. However, two centuries of isolation have instilled this academia-focused society with a pathological need to protect its research. They are no more likely to cooperate than a deeply religious nation asked to hand over its most holy artefact. Orion's megaship Scientia Aeterna is still transmitting requests to communicate. I have even seen one of its secondary craft narrowly avoid being consumed by the dredger's maw while searching for an access point. But the Scriveners are locked down tight, and this siege situation shows no sign of ending."^[1]^
+
+01 NOV 3307
+
+- The Scriveners Clan's legal ownership of their dredger has been supported by the civil rights organisation Advocacy. The ancient Dredger-class bulk cruiser, currently located in the Oochost PC-C c29-0 system, is inhabited by a nomadic tribe descended from the vessel's original crew. Orion University claims that the cruiser is its commercial property, but has failed to make contact with its occupants. Rhiannon Grady, director of Advocacy, explained: "For centuries, there has been widespread legislation to protect remote communities from cultural contamination. These laws apply to micro-societies, such as those found aboard generation ships, that evolved in isolation. Therefore, Orion University should not presume to deprive over ten thousand people of the only home they have ever known. Unlike cases such as the Golconda, which requested emergency assistance, in this case we are legally and morally obliged to respect the status quo." Professor Elizabeth Perez, head of anthropology at Orion University, responded: "I was involved with the Golconda aid efforts, and fully appreciate the delicacy of this situation. But the dredger's age and condition makes it a hazardous environment for its people. Evacuation should be considered for their own safety, with appropriate measures to minimise cultural disruption." The university's megaship, Scientia Aeterna, has halted attempts to gain access to the Scriveners Clan dredger. However, it has not withdrawn its remote override of the vessel's hyperdrive.^[2]^
+
+26 JUL 3307
+
+- Communications intercepted by the Proactive Detection Bureau are being used to prevent further factions from leaving the Federation. A report by the civil rights organisation Advocacy proves that the Federal Intelligence Agency is targeting pro-independence individuals via their private messages. In many cases, they are being arrested for planning to commit crimes against the constitution. Deputy Director Bethany Blake, who runs the PDB, gave a statement to the media: "I can confirm that gathering such intelligence is within our legal remit. Unilateral declarations of independence are criminal acts that violate the Federal Accord. Therefore we are identifying perpetrators before they cause harm, which is precisely what our surveillance network was established to do." In Congress, Vice President Jerome Archer defended the PDB for boosting arrest rates and saving lives. However, Congressman Bai Zheng remarked that the PDB was "incapable of locating the NMLA, but fantastic at finding enemies among our own people that didn't previously exist". Both President Hudson and Shadow President Winters have personally contacted the leaders of many systems within their spheres of influence, aiming to address their concerns and convince them not to secede from the Federation.^[3]^
+
+21 JUL 3307
+
+- More Federal factions are considering declaring independence following the recent conflict in the Azaladshu system. Sofia Trevino, political journalist with The Federal Times, published an overview of the situation: "When Azaladshu Free seceded in reaction to the government's surveillance laws, it inspired three other factions to do the same, making ten systems and a billion people independent. Superpowers routinely gain and lose systems via local politics, but this was a rare instance of member factions abandoning their fealty. The newly sovereign nations have severed all links with the Proactive Detection Bureau, so their communications are no longer being monitored. Despite broad public support for the Domestic Counter-Terrorism Act, many citizens still consider personal privacy to be a constitutional right. Dozens of other factions are now considering independence. This affects only a small percentage of the systems under Federal control, but is highly embarrassing for President Hudson as well as Shadow President Winters – her organised resistance to the surveillance laws is what inspired factions to secede. Advocacy, the civil rights organisation, claims that the Federal Intelligence Agency has begun arresting secessionist ringleaders under spurious charges. If true, it suggests that the government will go to any lengths to prevent a full-scale rebellion spreading throughout the Federation."^[4]^
+
+14 MAY 3307
+
+- The Proactive Detection Bureau, which monitors all civil communications in the Federation, has received a boost from the galactic community. President Hudson's campaign for additional data proved so successful that the PDB has dramatically increased the range of its surveillance. Deputy Director Bethany Blake of the Federal Intelligence Agency announced: "We are now able to discreetly scan almost every private and public communications network used within Federal systems. As a result, arrest rates have soared and several organised crime rings have been dismantled." Shadow President Winters's efforts to distribute methods of blocking the PDB received considerable support, but failed to eclipse Hudson's initiative. This was interpreted by the Federal government as a mandate from the citizens to continue its surveillance programme. Rhiannon Grady, director of the civil rights organisation Advocacy, told the media: "Since the vast majority of citizens will never receive a visit from the FIA for their activities, the public has no sense of what they have lost. But history teaches us how hard it is to regain freedoms once you've given them away. The Federation has taken a large step toward becoming an interstellar police state with little regard for the individual."^[5]^
+
+23 APR 3307
+
+- Shadow President Felicia Winters has claimed that the Proactive Detection Bureau is unconstitutional as it violates the Federal Accord. In an address before Congress, she said: "The Federation's constitution explicitly guarantees citizens the right to data security and privacy. The PDB tramples over this by raiding everyone's personal communications, casting aside decency and dignity so that algorithms can probe into every aspect of our lives. Furthermore, if ACT's hypothesis is correct and the NMLA is using an advanced dark-comms network, then the PDB's existence is baseless and unjustifiable." Vice President Jerome Archer responded: "The Domestic Counter-Terrorism Act is emergency legislation that temporarily suspends constitutional statutes, until we are satisfied that the terrorist threat has been negated. Following the PDB's success in uncovering extremist groups, we are widening the search parameters to include other related criminal activity." Opinion polls suggest that a slim majority of Federal citizens accept that some liberties must be sacrificed in return for increased security. However, according to the civil rights organisation Advocacy, the speed with which the PDB gained access to data hubs suggested that "The infrastructure was already in place – all the government needed was an opportunity to make it legal."^[6]^

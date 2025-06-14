@@ -1,0 +1,83 @@
+# Cassia Carvalho
+## Cassia Carvalho
+
+		
+
+## Biographical Info
+
+### Status
+
+Alive
+
+### Gender
+
+Female
+
+### Allegiance
+
+Empire
+
+### Occupation
+
+Imperial Herald political journalist
+
+**Cassia Carvalho** is a political journalist with the Imperial Herald. She reported on the ill-fated engagement between Princess Aisling Duval and Federal Ambassador Jordan Rochester in mid-3304, as well as the subsequent rise and fall of the hardliner isolationist group Nova Imperium. In 3306 and 3307, she covered Hadrian Augustus Duval's acknowledgment as a member of the Imperial Family by blood, and discussed the political ramifications of the birth of Hadrian's son, Hector Mordanticus Duval.
+
+## Timeline
+
+09 DEC 3307
+
+- \*Pilots' Federation ALERT\*
+The birth of Hadrian Duval's son has been celebrated in grand fashion in the Paresa system. Praetor Leo Magnus, the new leader of Nova Paresa, publicly thanked pilots for delivering Chateau De Aegaeon, HR 7221 Wheat, Indi Bourbon and Yaso Kondi Leaf to support these highly exclusive proceedings. Payment is now available from Dyson City starport. Political journalist Cassia Carvalho discussed the arrival of Hector Mordanticus Duval in The Imperial Herald: "As Emperor Hengist's illegitimate grandson and former enemy of the state, Hadrian Duval has always been the outsider. Indeed, his newborn son's middle name seems deliberately chosen to remind the Emperor that she ordered Hadrian's mentor, Imperator Mordanticus, to be shot in cold blood. But over the last two years, Hadrian's position has gradually shifted from isolationist rebel to legitimised ally. He appeals to citizens who are unhappy with a female monarch, even more so now that he has a male heir. And he remains closest to the Imperial bloodline, with most other Duval family members having been assassinated by the NMLA. Therefore, unless Arissa Lavigny-Duval or Aisling Duval produce children, it's entirely possible that Hadrian's child might inherit the throne. Despite only being a few days old, Hector Duval's impact upon the Empire could be measured in centuries."^[1]^
+
+16 NOV 3306
+
+- Princess Aisling Duval's request for her cousin, Imperator Hadrian Augustus Duval, to be accepted into the Imperial Family has been denied. Emperor Arissa Lavigny-Duval's decision was delivered to the Senate by Chancellor Anders Blaine: "Her Majesty acknowledges that Hadrian is a Duval by blood, and offers royal pardons to him and his followers for previous crimes against the Empire. However, she does not bestow upon him the title of prince, nor offer any formal position within the Imperial Family." Aisling Duval and Hadrian Duval both expressed disappointment, but agreed to accept the decree. The Senate has now ratified the Treaty of Paresa, which removes Nova Imperium's outlaw status in return for accepting Emperor Arissa's rule and contributing to operations against the NMLA. The Imperial Herald's political journalist Cassia Carvalho commented: "This surprisingly even-handed judgement is widely seen as bowing to pressure from the Senate, where there is much loyalty to Aisling Duval. Some interpret it as atonement – or regaining political goodwill – for the purge of Nova Imperium in 3305, which included the execution of several senators. The image this projects is of an Empire coming together against the greater threat posed by Neo-Marlinists. But there is speculation that an alliance between the two youngest Duvals may one day challenge the Emperor for the throne."^[2]^
+
+13 APR 3305
+
+- News of a meeting between Princess Aisling Duval and Imperator Hadrian Augustus Duval has caused controversy throughout the Empire. Political journalist Cassia Carvalho reviewed the situation: "Princess Aisling is surely aware that contacting Hadrian Duval was a politically risky move. Senator Zemina Torval has wasted no time in branding the princess 'an ideological traitor' for associating with isolationists. Family connections aside, Hadrian's traditionalist views do not align with Aisling's progressive approach. But he is young and inexperienced, with policies inherited from the extremist Imperator Mordanticus. Perhaps Aisling hopes that, by learning to adapt, this long-lost member of the Duval family may yet play a part on the galactic stage."^[3]^
+
+26 JAN 3305
+
+- Security forces across the Empire have carried out a coordinated purge of the isolationist group Nova Imperium. Political journalist Cassia Carvalho reported: "Yesterday's executions in the Senate were apparently only the beginning of a coordinated massacre. Nova Imperium members are being put to death, and citizens who supported them are being arrested for treason. In a single day, the isolationist cause has been crushed. It seems that Emperor Arissa Lavigny-Duval – while being accused of weakness – has simply been playing for time, allowing Senator Patreus to position his agents for a simultaneous strike. With this show of strength, the Emperor has done much to silence her detractors. Despite reactions of horror from some newsfeeds, Alliance and Federal leaders have made no official comment, perhaps relieved that inter-superpower cooperation against the Thargoids will continue. Nova Imperium remains in control of the Paresa system, but with the organisation’s power base destroyed, it no longer poses a threat to the Imperial throne."^[4]^
+
+25 JAN 3305
+
+- Kaeso Mordanticus, the captured leader of isolationist group Nova Imperium, has been brought before the Imperial Senate, with unexpected results. Political journalist Cassia Carvalho was at the scene: "Imperator Mordanticus was led into Senate House in shackles but still defiant. All rose as Emperor Arissa Lavigny-Duval entered, attended by Senator Denton Patreus. The Emperor and Patreus approached Mordanticus silently, whereupon Patreus executed the Imperator with his personal sidearm. Suddenly, the Imperial Guard opened fire, gunning down senators Pal Vespasian and Eloise Winterstone, and others who had supported the isolationist cause. Once the initial shock had subsided, the Emperor stood over the Imperator's body. In a clear voice she announced: 'There is no Nova Imperium. There is only the Empire.' I have since heard reports of mass arrests and further public executions across Capitol. The rumour is that Patreus placed agents among Nova Imperium strongholds, which are now being eliminated from within. This may be the start of an Empire-wide purge."^[5]^
+
+18 JAN 3305
+
+- Imperator Mordanticus, the leader of isolationist group Nova Imperium, has been captured by the Empire. His arrest was made during the conflict between Nova Imperium and the Empire in the Paresa system. Chancellor Anders Blaine made a pronouncement on behalf of Emperor Arissa Lavigny-Duval: "With its fleet destroyed, Nova Imperium's seditious agenda has been halted. The so-called Imperator, Duke Kaeso Mordanticus, will be brought before the Senate on Friday the 25th of January to answer charges of treason against the Empire." Political journalist Cassia Carvalho commented in The Imperial Herald: "For the emperor to assemble the entire Senate is a rare occurrence. It seems likely that she will make an example of Mordanticus, perhaps with a public trial. Although Nova Imperium survives in the Paresa system, the loss of both its fleet and military commander may have delivered a mortal blow to the isolationist cause."^[6]^
+
+11 JAN 3305
+
+- Political journalist Cassia Carvalho has reported on the current conflict with isolationist group Nova Imperium: "In recent weeks, Nova Imperium has become a genuine political force. Tensions have now erupted into open conflict in the Paresa system, with Imperial Navy auxiliaries attempting to destroy Nova Imperium's fleet. In return, Imperator Mordanticus has called on the galactic community to fight for Emperor Hengist’s long-lost grandson Hadrian Duval to be recognised as an heir to the throne. Whether this is a one-off battle or the beginning of an Imperial civil war, the outcome of the Battle of Paresa will influence the future of the Empire."^[7]^
+
+05 JAN 3305
+
+- The isolationist group Nova Imperium is reported to be assembling its forces in the Paresa system. Senator Denton Patreus made this statement: "We have evidence that this seditious organisation is amassing an armada in its home system. It consists of ships crewed by Imperator Mordanticus's ex-Navy followers, as well as the private vessels of many misguided citizens. As Admiral of the Fleet, I order Nova Imperium to disperse its forces immediately or face the consequences." The Imperial Herald's Cassia Carvalho commented: "Widespread support for Hadrian Duval has led to Nova Imperium amassing its fleet in a very short time. The challenge for the Imperial Navy is to quash this threat without it being seen as a massacre of Imperial citizens, which can only fuel further rebellion."^[8]^
+
+27 DEC 3304
+
+- Imperial senators supporting the isolationist group Nova Imperium have demanded that Emperor Arissa Lavigny-Duval acknowledge its figurehead, Hadrian Augustus Duval. Senator Eloise Winterstone proclaimed to the Senate: "The Imperial family must officially recognise Hadrian Duval as one of its own. Given that the Emperor has no children, such an act would secure the future of the Duval bloodline." Chancellor Anders Blaine replied: "Our official position is that Nova Imperium is a fringe organisation with no right to determine policy. We have no more to say on the matter." Political journalist Cassia Carvalho wrote in The Imperial Herald: "With the possibility of civil war increasing, the suggestion that Arissa accept Hengist Duval's grandson as an heir feels like a reasonable compromise. Her lack of response so far has led to accusations of weakness, with many calling on her to step down and for Hadrian Duval to be instated as sovereign ruler."^[9]^
+
+07 DEC 3304
+
+- Isolationist group Nova Imperium has revealed its choice for Emperor – an eighteen year old man named Hadrian Augustus Duval. The group's leader, Imperator Mordanticus, broadcast this message: "It is incumbent upon me to reveal that Hengist Duval fathered not one but two illegitimate children in his younger days. A few years before meeting Florence Lavigny, he had a brief affair with a slave in the Imperial household. When Hengist's father discovered this, the matter was hushed up and the slave dismissed. The slave's son went on to sire a child of his own: Hadrian Duval, grandson of Emperor Hengist Duval. Hadrian was unaware of this until we located him and genetically confirmed his lineage. Arissa Lavigny-Duval is a weak Emperor who must be removed. We call for Hadrian Duval to be recognised as the true heir to the throne!" The Imperial Herald's political journalist Cassia Carvalho observed: "This announcement has shaken the Empire to its very foundations. Having Hadrian as a figurehead has rallied those hardliners more comfortable with the idea of a male Emperor. With a single stroke, Nova Imperium has gained considerable credibility and massively increased its support."^[10]^
+
+24 NOV 3304
+
+- Isolationist group Nova Imperium has declared its intention to install a new Emperor. The group's leader, recently identified as ex-navy admiral Duke Kaeso Mordanticus and known as the Imperator, said: "The Empire has been weakened by collaborating with its enemies. Aegis drains our resources to protect foreign systems from the Thargoids, our security forces are stretched thin defending non-Imperial systems, and Princess Duval sullies her honourable name by dallying with a Federal libertine. Our people demand stronger leadership. We will achieve this by installing a new Emperor – one who will restore the glory of the Empire!" Political journalist Cassia Carvalho commented in The Imperial Herald: "Naturally there has been no response from Arissa Lavigny-Duval. But for many citizens, Mordanticus has articulated their unease about inter-superpower cooperation. With support for Nova Imperium increasing rapidly, a silent minority may now have found a voice."^[11]^
+
+01 NOV 3304
+
+- A radical group called Nova Imperium is gaining influence throughout the Empire. Imperial Herald journalist Cassia Carvalho highlighted the situation: "Nova Imperium claims that to survive the Thargoid conflict, the Empire must sever contact with all other systems and concentrate on protecting itself. In recent months, the organisation has become a genuine political force. The group's leader is known only as the Imperator. Dressed in an Imperial Navy uniform, he is a charismatic presence who speaks of 'a return to the honour of the old days' and 'the glory of Achenar'. Many traditionalist citizens, unhappy with recent cross-superpower cooperation, have embraced the Imperator's rhetoric. On several worlds, Nova Imperium's followers hold rallies with a distinctly martial feel. So far there has been little response from Imperial authorities, but it is clear that Nova Imperium will soon become impossible to ignore."^[12]^
+
+22 AUG 3304
+
+- Federal news channels have announced that the wedding of Princess Aisling Duval and Ambassador Jordan Rochester has been cancelled. The statement came from Congress member Isolde Rochester: "The planned wedding between my son Jordan Rochester and Her Imperial Highness will no longer take place. We have contacted everyone involved with the event and closed down all related projects." The announcement follows anti-slavery campaigner Jarl Toredo's confession that he and Aisling Duval were romantically involved for several months. Toredo also claimed that the planned marriage was purely a political matter. The cancellation was confirmed by the Imperial Palace on Emerald, but there has been no direct response from Princess Duval or Ambassador Rochester. Political journalist Cassia Carvalho of The Imperial Herald commented: "The fact that this news comes from Isolde Rochester gives weight to Jarl Toredo's claims. If the marriage was a political scheme, that may explain why the Rochester family matriarch is the one to call it off, no longer trusting Princess Duval to play her part. Or perhaps this is simply the reaction of a mother, enraged at her future daughter-in-law's infidelity. Had the marriage taken place, would it have initiated an era of Federal-Imperial cooperation, or triggered a new wave of conflict? It seems we will never know."^[13]^
+
+06 JUL 3304
+
+- Responding to public interest in Princess Aisling Duval's fiancé, Federal Ambassador Jordan Rochester, political journalist Cassia Carvalho has compiled a profile for The Imperial Herald: "Jordan Rochester is now a household name throughout the Empire, though few were aware of him prior to his engagement to Princess Duval. But in the Federation, the Rochesters have been associated with success for over two hundred years. The Rochester name can be traced back to self-made tycoon Apollo Rochester, who was the biggest landowner on Biggs Colony in the Altair system. Each generation since has strived for fame and wealth, and the expression 'as rich as a Rochester' has become common parlance. The family matriarch is Isolde Rochester. She is a member of Congress, an influential figure in the Liberal Party and a staunch supporter of Shadow President Felicia Winters. Isolde raised five children, including Jordan, and it was her accomplishments that inspired her son to enter politics. Jordan's siblings chose different paths. The eldest, Jupiter Rochester, is an executive with Core Dynamics, with a personal fortune in the billions. Fifteen years ago he had his own celebrity marriage, to actor Tomas Turai. They now have two teenage children, daughter Kali and son Kalen. Jordan's sisters, Juno and Jocasta, have impressive Navy careers, holding the ranks of Vice Admiral and Post Captain respectively. Only Jordan's younger brother, Jonah, has no title. He is believed to be the black sheep of the family. Despite being just 34, Jordan has already made his mark. He has overseen several high-level negotiations on behalf of the Federal Diplomatic Corps and is now a trusted envoy, noted for his charm and tact. His future will be interesting, to say the least. How will he balance being both a Federal statesman and an Imperial consort? And what are the wider ramifications of the Rochester dynasty aligning with the House of Duval? Even more so than his predecessors, Jordan Rochester has already ensured that history will remember his family's name."^[14]^

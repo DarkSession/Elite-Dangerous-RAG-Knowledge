@@ -1,0 +1,2 @@
+# Needle Crystals
+**Needle Crystals** are a source of Raw Materials. They are occasionally found at Lava Spout sites on terrestrial worlds with volcanism, and can be detected with an SRV's Wave Scanner. When destroyed by weapons fire, they drop various Rare grade Raw Materials that can be collected with an SRV's Cargo Scoop.

@@ -1,0 +1,8 @@
+# Mitterand Hollow
+[![Mitterand-Hollow-Moon](https://static.wikia.nocookie.net/elite-dangerous/images/d/db/Mitterand-Hollow-Moon.png/revision/latest/scale-to-width-down/300?cb=20170710203046)](https://static.wikia.nocookie.net/elite-dangerous/images/d/db/Mitterand-Hollow-Moon.png/revision/latest?cb=20170710203046) 	 		 			 		 		 		 			
+Mitterand Hollow moon
+ 		 	 
+
+**Mitterand Hollow** is a small, rocky moon orbiting the planet New Africa in the Epsilon Indi system, near Sol. It has a radius of 684 km, and travels at an approximate speed of 876 km per second, allowing it to complete a full orbit around New Africa in only 1 minute and 26 seconds. A total Solar Eclipse is visible from the moon's surface every local day for 10 seconds.^[1]^ Despite the moon's immense speed, pilots can still safely land on it and their ships cannot be smashed by its motion once they are mass locked.
+
+The unique circumstances of Mitterand Hollow have attracted countless pilots over the years. On 17 June 3302, the Crab Nebula Expedition departed from Mitterand Hollow, the largest coordinated flight of explorers since the Distant Worlds Expedition. The event is remembered at the hard-to-catch Tourist Spot 0693. On 1 December 3302, members of the Distant Worlds Expedition had a reunion waypoint (Waypoint 24) on its surface at the Settlement Barcelo Penal Colony; the base camp was designated "Reunion Landing".

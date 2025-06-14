@@ -1,0 +1,10 @@
+# Mudlark
+The **mudlarks** were a sentient species indigenous to Achenar 6d, which is known today as Capitol, the heart of the Empire. Tragically, the mudlarks were driven to extinction in the early 24th century by bacteria carried by human colonists, though rumors persist that Emperor Henson Duval had deliberately wiped out the mudlarks to make way for his colonial development plans. The extinction of the mudlarks became the pretext for the Federation's failed attempt to capture Achenar.^[1]^
+
+## History
+
+In the 23rd century, Marlin Duval and her supporters, who shared her anti-Federation sentiments, arrived in the Achenar system in search of a new home. The planet Achenar 6d was identified as an ideal habitable planet and colonization began in 2292. While the colonists were aware that Achenar 6d supported indigenous life, they did not realize until later that one species was sentient. This species was nicknamed the "mudlarks" by the human colonists after some were observed digging through a muddy riverbank for food.^[1]^
+
+At the time of first contact, the mudlarks were a pre-agricultural species that was only beginning to develop language. They also used clay to mold simple objects with no practical purpose which may have been an early form of art.^[1]^
+
+In the decades after Marlin Duval's death in 2296 and her brother Henson Duval's subsequent rise to power, the mudlarks began dying in large numbers and eventually went extinct. Imperial scholars assert that the cause was imported bacteria carried by the human colonists, but Federal historians counter that, based on interpretations of records of decrees which the Imperial scholars dispute, Henson Duval carried out a sterilization campaign across Achenar 6d against the mudlarks so that his colonial development plans would not be hindered by ecological concerns.^[1]^^[2]^

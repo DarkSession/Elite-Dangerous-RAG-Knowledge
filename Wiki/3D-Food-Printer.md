@@ -1,0 +1,2 @@
+# 3D Food Printer
+The **3D Food Printer** aka 'chef' uses Food Cartridges to reconstitute dehydrated components into a variety of shapes. The components are mixed with water and flavourings while printed according to the desired food item template for colour, texture and taste. "Burgers" and "Hotdogs" are common standard template choices in most chefs.^[1]^

@@ -1,0 +1,6 @@
+# Anarchy
+**Anarchy** is lawlessness, a condition of no government or ruling power. Typically, there is no leader or political governance. Advocates of anarchy are called anarchists. There are social theories that it can result in harmony, but it is usually associated with disorder and social chaos.^[1]^
+
+A star system with a controlling Anarchy minor faction allows crimes to be committed without consequence. The system security level is also set to Anarchy, there are no System Authority Vessels present, and no ship will show as "wanted" unless scanned with a Kill Warrant Scanner. Anarchy minor factions are usually criminal organizations with internal arbitrary rule systems that do not apply to outsiders. Traders and travelers passing through Anarchy systems should be wary of interdictions and unprovoked attacks. Conversely, many combat-oriented pilots travel to Anarchy systems specifically hunt other ships without penalty.
+
+Uninhabited systems are also classified as Anarchy systems as even though there is no trace of civilization, security forces have no reason to be stationed there or patrol the area.

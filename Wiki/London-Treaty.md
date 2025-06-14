@@ -1,0 +1,6 @@
+# London Treaty
+The **London Treaty** was signed in the city of London on Earth in 3278. It was a formal agreement between the Federation, Empire, and Alliance to limit tonnage for capital ships in each of their fleets. The treaty was conceived with the aim of preventing an arms race following the introduction of the revolutionary Frame Shift Drive, which reduced hyperspace travel times from hours to seconds.^[1]^
+
+Although seemingly successful, by 3302 the London Treaty came to be perceived by some commentators as a major barrier to economic development.^[1]^ Later that year, the treaty was abolished altogether when Fleet Admiral Denton Patreus declared that the Empire would build as many capital ships as it deemed necessary to defend itself. This act was decried by Federal officials, but with the Empire having already secured several construction contracts, the Federation had no choice but to follow suit and begin expanding its own fleet.^[2]^^[3]^^[4]^
+
+Unknown to the public, the London Treaty's dissolution had been brought about by the machinations of The Club, which had deemed it necessary for the superpowers to significantly bolster their military forces to prepare for an imminent invasion by the Thargoids.^[5]^

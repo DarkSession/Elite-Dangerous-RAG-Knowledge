@@ -1,0 +1,4 @@
+# Suit Recharge Socket
+A **Suit Recharge Socket** is a specialised power generator designed to replenish the batteries of Suits. The devices come in two forms: a stationary outlet built into structures within a settlement or installed at a Concourse, and a portable pylon that may be found at certain Points of Interest. In order to use a Suit Recharge Socket, an individual requires an Energylink tool, available with all Suit models, to transfer power from the device into the Suit's internal battery. Suit Recharge Sockets can be tapped without limit, and provide an alternative to expending Energy Cells.
+
+If an individual does not have the appropriate authorisation to be present in a settlement, or if they are regarded by the settlement's controlling faction as an enemy, using a Suit Recharge Socket may trigger a hostile response from local security forces.

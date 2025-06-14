@@ -1,0 +1,175 @@
+# Anders Blaine
+## Anders Blaine
+
+		
+
+## Biographical Info
+
+### Status
+
+Alive
+
+### Gender
+
+Male
+
+### Home System
+
+Facece
+
+### Allegiance
+
+Empire
+
+### Occupation
+
+Chancellor
+Senator of Facece
+
+**Anders Blaine** is Chancellor to the Emperor and the Imperial Senator and administrator of Facece. He has served as Chancellor since 3283, when he was appointed by Emperor Hengist Duval. After Hengist's assassination in 3301, his successor, Emperor Arissa Lavigny-Duval, allowed Blaine to stay on as her Chancellor. In his capacity as Chancellor, Blaine runs sessions of the Imperial Senate and holds press conferences on behalf of the Emperor at the Imperial Palace and Hall of Martyrs on Capitol.
+
+## 
+
+Contents
+
+- 1 Biography
+    - 1.1 Appointment to the chancellorship
+    - 1.2 The Imperial succession crisis
+    - 1.3 Arissa's absence
+- 2 Timeline
+- 3 References
+
+## Biography
+
+### Appointment to the chancellorship
+
+Anders Blaine represented the Facece system in the Imperial Senate for decades. Over the years, he developed an enduring friendship with Emperor Hengist Duval. In 3283, Senator Blaine was summoned to Achenar for a secret meeting with Hengist in which His Majesty revealed he was withdrawing from Imperial politics. Not long afterward, Hengist appointed Blaine his Chancellor by Imperial decree, effectively making Blaine the de facto steward of the Empire.^[1]^
+
+### The Imperial succession crisis
+
+Following Hengist's assassination by Emperor's Dawn on August 5, 3301, as the Senate debated candidates for the succession, Blaine was considered the strongest contender for the Imperial Throne despite him not being related to the Imperial Family and his apparent lack of aspiration for the position. However, the revelation of his indirect connection to Emperor's Dawn left Princess Aisling Duval and Senator Arissa Lavigny-Duval of Kamadhenu as the most convincing contenders.^[2]^ However, Blaine still retained enough influence in the Senate that he became a kingmaker who could swing the election to whomever he favoured. The Chancellor threw his support behind Arissa Lavigny-Duval to become the new Emperor,^[3]^ and on October 6, 3301, she was proclaimed the next Emperor of the Empire after having won the vote in the Senate with a clear majority.^[4]^ Blaine was allowed to remain Chancellor following Arissa's coronation. 
+
+### Arissa's absence
+
+When Emperor Arissa entered senatorial protection and was moved to an undisclosed, secure location in January 3307 in response to the assassination of Prince Harold Duval by the Neo-Marlinist Liberation Army and multiple credible threats to her own life, Blaine became the chief intermediary between the Emperor and the Senate.^[5]^ He stood in for her at the Galactic Summit in 3307, where he personally ratified the Cornelius-Lasky Convention with his Allied and Federal counterparts.^[6]^
+
+By January 3308, after the NMLA had been vanquished, concerns were raised about the Emperor's continued absence from the public eye, but Blaine asserted that she was safe and would return to Capitol imminently.^[7]^ This was soon proven false, however, as the Affiliated Counter-Terrorism unit discovered in February 3308 that Arissa had been taken captive by the Lords of Restoration. On Blaine's orders, the Imperial Guard located and rescued Her Majesty.^[8]^ ACT subsequently explained that Arissa had been abducted while traveling to her safe haven, and messages from her to the Senate over the past year had been fabricated by the Lords using a virtual doppelganger and the collaboration of corrupt Imperial Intelligence agents.^[9]^
+
+## Timeline
+
+16 FEB 3308
+
+- Emperor Arissa Lavigny-Duval has attended a public ceremony following her year-long abduction by the Lords of Restoration. Her proclamation from Trasken Square, standing before millions of Capitol's citizens and flanked by legions of Imperial Guard, was broadcast across all channels: "To those who protected the Empire during my enforced absence, I offer my deepest gratitude. My trusted chancellor, senators and security agencies are to be commended. To those who dared to attack Imperial citizens, who dared to impersonate me and mislead my people…who took the lives of my family. Know this: there will be no place to hide from my wrath. And to all citizens who may fear these uncertain times, I vow that your Emperor will lead you into the glorious future that is ours by right." Subsequent messages from the Imperial Palace praised ACT and its supporters for their work in freeing Arissa and destroying the NMLA. Princess Aisling Duval was also thanked for her dedication to finding out the truth, although some newsfeeds have noted that Aisling would hold a strong claim on a vacated throne.^[10]^
+
+09 FEB 3308
+
+- Emperor Arissa Lavigny-Duval has been found alive after being secretly imprisoned by the private military firm Darkwater Inc. The Imperial Herald published a special report on recent events: "The absence of the Emperor from public life for over a year has prompted much speculation. The Senate claimed that she was being kept safe from assassination attempts by the NMLA, and that they remained in contact with her. In truth, she was being held captive by the NMLA's secret benefactors. This group of Imperial senators referred to themselves as the Lords of Restoration. They were revealed only after ACT recruited independent pilots to help decipher the terrorists' dark-comms network. Chancellor Blaine immediately ordered the Imperial Guard into battle against Darkwater soldiers. A ship fleeing from the Summerland system was intercepted, aboard which was a cryogenic pod containing the Emperor herself. She was swiftly returned to Capitol, and is currently under the care of the Imperial Palace medical team. The IISS has launched a security operation based on ACT's information. This reveals that groups within the Senate, Darkwater and Imperial Intelligence formed a long-running conspiracy to fund and empower the NMLA. Senators Alberto Gereon, Karl Nerva, Ursula Torquatus and several others have been placed under arrest. ACT has stated that it will provide additional information soon."^[8]^
+
+20 JAN 3308
+
+- Princess Aisling Duval has discussed growing concerns over Emperor Arissa Lavigny-Duval's lack of public engagements in recent months. In an interview with The Imperial Herald, she said: "Chancellor Blaine assures us that the Emperor has been kept in seclusion for nearly a year to protect her from the NMLA. But why has this prevented the Empire's ruler from engaging with her citizens? After all, Hadrian Duval and his family were placed under the same senatorial protection without disappearing altogether. We know that the Emperor has communicated with the Senate on various matters during this time. Government channels are generally trusted thanks to Imperial Intelligence's verification protocols. But Captain Landau's recent testimony, which links Imperial Intelligence to the NMLA, has me concerned. How can I be sure that a breach to our most secure networks wasn't responsible for the location and murder of my father, Prince Harold? Until Arissa appears in person, it is irresponsible to assume her safety is guaranteed. I will be most relieved to have my fears proved wrong." Chancellor Anders Blaine responded: "With the greatest respect to Princess Duval, I have never had cause to believe that Her Majesty the Emperor is in any danger from her own security agencies. Her imminent return to public life should alleviate such concerns."^[7]^
+
+07 JAN 3308
+
+- Senators have refuted ACT's claim that the NMLA made use of official but highly secret Imperial communications devices. Captain Saskia Landau maintains that the terrorist group's dark-comms network was very similar to the Omega Grid, an undetectable messaging system used exclusively by Imperial Intelligence. Senator Karl Nerva told the media: "In her desperation to seek out the NMLA, Captain Landau is chasing shadows. Imperial Intelligence must operate under total secrecy, but I assure you that this 'Omega Grid' is just as much of an invention to discredit the Empire as Serene Harbour was. Landau has overstepped her authority with these outlandish accusations. I once again propose that ACT be disbanded and its operatives returned to normal duties." The Imperial Herald reported that other senators are calling for Emperor Arissa Lavigny-Duval to overrule those who are blocking ACT's investigation. The newsfeed highlighted that she did not attend any functions in person during the past year, and has not broadcast any public messages. In response, Chancellor Anders Blaine gave this statement: "Her Majesty was placed under secure protection in early 3307 after several failed assassination attempts by the NMLA. She has been communicating remotely with the Senate on all official business, but does plan to return to Capitol very soon."^[5]^
+
+02 DEC 3307
+
+- \*Pilots' Federation ALERT\*
+A new chapter in the Duval family's history has begun with the birth of Hadrian Augustus Duval's son. The announcement was made by The Imperial Herald: "Lady Astrid Minerva-Duval, wife of Hadrian Duval, has delivered a baby boy at an undisclosed secure location while under senatorial protection. The child has been named Hector Mordanticus Duval. This is in honour of Hadrian's late father Hector Jansen, who was Emperor Hengist's illegitimate son, as well as Imperator Kaeso Mordanticus, who played a major role in both Hadrian and Astrid's lives. Despite Hadrian not being an official member of the Imperial Family, many citizens are jubilant at the arrival of a new Duval. The Imperial Palace, Princess Aisling Duval and Chancellor Anders Blaine have all sent messages of congratulation." Praetor Leo Magnus, who was Hadrian Duval's head of security, has resigned his temporary commission from ACT to assume leadership of Nova Paresa. The faction has organised an initiative to gather rare commodities for its former leader to celebrate the historic occasion. Pilots are asked to deliver Chateau De Aegaeon, HR 7221 Wheat, Indi Bourbon and Yaso Kondi Leaf to Dyson City in the Paresa system. All shipments will be subject to security scanning before being redirected to a suitable location.^[11]^
+
+13 JUL 3307
+
+- The Marlinist Consulate, established to represent Marlinists across the galaxy, has triggered political instability among the colonies. Local newsfeed The Marlin Standard detailed the situation: "The formation of the Marlinist Consulate will shortly conclude with the public election of its leader. The prime consul will serve as the official Marlinist representative to the superpowers, establish foreign embassies and make wide-reaching diplomatic decisions. One of the two leading candidates is Verity Dexter from the Marlinism Reformation Party, who promises to speak for the Neo-Marlinist fringe. The Free Marlinist Movement's candidate, Kayode Tau, directly opposes that position. Senator Lorcan Scordato has championed Dexter's bid, proposing that she be recognised as an Imperial patron to represent pro-Marlinist citizens of the Empire. Despite many protests, Chancellor Blaine concurred that patronage is within the purview of individual senators. Some Marlinists see this as a chance to finally obtain influence in the Senate, after centuries of being marginalised. Others are enraged at Neo-Marlinists gaining legitimacy and acting as the NMLA's political wing. The rift has affected parliament, where First Minister Fairfax again urged Minister Aaron Whyte to cease representing the NMLA and hand over all information to ACT. Whyte retorted that his diplomatic breakthroughs would soon make the counter-terrorism unit redundant."^[12]^
+
+03 MAY 3307
+
+- The isolationist group faces attack by both Federal and Imperial factions, after accusations that Imperator Hadrian Duval is the NMLA mastermind. The League of Mandu arrived in the Paresa system last week and quickly established a foothold. Admiral Natalia Lee, commanding the Harmony's Shield megaship, announced: "Our purpose is to eliminate the terrorists who slaughtered so many Federal citizens. We advise the Empire to stand aside and allow us to deliver justice." Magister Julius Halstrom of the Peraesii Empire Consulate declared: "In the name of the Emperor, we stand ready to purge the NMLA from the Paresa system – and the Federation too, unless they withdraw." Hadrian Duval has broadcast a message via Paresa News Network: "The NMLA faked my identity when dealing with the Neo-Marlinist Order of Mudhrid, knowing the superpowers would do their work for them by killing another Duval. Nova Imperium will defend itself if necessary, but we are not responsible for any terrorist attacks." ACT is still attempting to corroborate evidence provided by the Landgrave of Mudhrid. Praetor Leo Magnus, Nova Imperium's security chief, is reportedly aiding their enquiries. The Senate has urgently requested direction from the Emperor, but Chancellor Blaine declared "Her Majesty cannot pass judgement upon a live investigation."^[13]^
+
+20 APR 3307
+
+- The Neo-Marlinist Order of Mudhrid has been granted sanctuary in the Marlinist Colonies in return for revealing the identities of the NMLA's leaders. The faction's survivors arrived in the Hyades Sector RO-P b6-2 system after being defeated by Imperial forces. The Marlinism Reformation Party agreed to offer political asylum, despite all three superpowers demanding the refugees' arrest. Imperial Senator Lorcan Scordato, who was visiting the Colonies on a fact-finding mission, announced: "After meeting the Neo-Marlinists and the Marlinist Parliament, I have secured an agreement. The Landgrave of Mudhrid and his inner circle will cooperate fully with ACT to provide details on the senior leadership of the NMLA. In return, they will receive life imprisonment at a local detention facility. The Steel Majesty's population will undergo security vetting by the Marlinist Constabulary to identify extremists. The remainder will be permitted to remain in the system and apply for citizenship." Chancellor Blaine has approved the proposal, commenting that it was "precisely the sort of creative solution the Emperor requires". Responses from the Alliance and Federation were mixed, but there was broad agreement that targeting the NMLA was the priority. Minister Aaron Whyte, elected leader of the Marlinism Reformation Party, publicly thanked Senator Scordato for negotiating a peaceful resolution.^[14]^
+
+29 MAR 3307
+
+- The fear of further starport bombings has placed internal and external pressure on the Empire to address the threat posed by the NMLA. Despite sharing intelligence via ACT, the Alliance and Federation have demanded that the Empire must do more to eradicate the NMLA, since it is 'Imperial in origin and ambition'. The latest developments were covered by mainstream media channels.
+The Imperial Herald: "In the Senate, Chancellor Anders Blaine reported that the Emperor has instructed him to present a range of options. Senator Lorcan Scordato has volunteered to visit the Marlinist Colonies on a fact-finding mission, to better understand the political character of the Neo-Marlinist fringe."
+Eye on Achenar: "The entire system is still shellshocked by the slaughter at Dawes Hub, a vicious stab at the heart of our glorious Empire. In our opinion poll, 93% of right-thinking citizens would send a fleet of Majestics to the murdering Marlinists instead of some soft-hearted senator."
+Vox Galactica: "In most Imperial cities and settlements, anxiety levels remain high. The NMLA's ability to strike seemingly anywhere has rocked public confidence in the Empire's strength. Opinions on Marlinism itself are more polarised than ever, with accusations of 'warmonger' and 'collaborator' dividing many families and relationships."^[15]^
+
+15 MAR 3307
+
+- Political fallout has been intense after the NMLA simultaneously bombed nine starports in the Alliance, Empire and Federation. The targeted stations are in the Achenar, Alioth, Eotienses, Gateway, Kamadhenu, Lave, Nanomam, Rhea and Sol systems. These were referred to by NMLA propaganda as the 'Nine Martyrs', a reference to the attack against Kepler Orbital last November. All three superpowers are treating this as a major emergency. Top-level discussions have taken place between their chiefs of security, using communication protocols recently established at the Galactic Summit. However, mainstream media has also reported on internal political tensions.
+The Imperial Herald: "Senator Patreus proposed that all known Marlinists be arrested immediately as NMLA collaborators. He received a direct rebuke from Chancellor Blaine, who said 'Her Majesty views your blunt tactics as having been counter-productive, and requires more creative solutions.'"
+The Federal Times: "President Hudson opened Congress with a minute's silence to honour VP Brad Mitchell and other deceased Cabinet members. He then directly blamed Shadow President Winters for their deaths, claiming 'You invited terrorists with your virtue-signalling aid programme for fake refugees!'"
+The Alliance Tribune: "The Assembly broadly welcomed Prime Minister Mahon's call for unity against the NMLA, and praised his efforts on the Sirius Treaty despite it remaining unsigned. But there was also support for Councillor Kaine's viewpoint: 'Our entry fee for the Galactic Summit was hundreds of thousands of lives.'"^[16]^
+
+04 MAR 3307
+
+- Pirate warlord Archon Delaine has unexpectedly appeared at the diplomatic conference and demanded to participate as a political delegate. Delaine is the leader of the Kumo Crew, a notorious crime syndicate that controls dozens of systems. Their arrival at Patterson Enterprise station initially caused many delegations' security teams to begin evacuations. However, representatives of the Sirius Corporation called for calm and delivered this message: "We have vouchsafed Archon Delaine's presence and extended full diplomatic immunity to his retinue. As with all attendees, they are expected to abide by our rules and etiquettes." This reassurance did not prevent several ambassadors from walking out in protest. Some accused Sirius Corporation of striking a deal with Delaine to prevent even more pirate vessels from swarming through the Sirius system. Mainstream newsfeeds also covered the impact of Delaine's arrival.
+The Imperial Herald: "Senator Patreus officially complained about 'the repulsive sight of pirate scum strolling alongside respectable politicians'. However, Chancellor Blaine agreed that Delaine could address the conference, albeit under close scrutiny."
+The Federal Times: "Neither Hudson nor Winters have commented on Delaine's appearance, but the security chief for the Federal delegation remarked: 'One wrong step and we'll put some big holes right through their immunity.'"
+The Alliance Tribune: "This is an unwelcome distraction from Prime Minister Mahon's proposal for Aegis's remit to be enormously expanded. The Sirius Treaty will fully unite superpowers, corporations and independent systems against the Thargoids – assuming that Mahon can convince his fellow leaders to agree."^[17]^
+
+03 MAR 3307
+
+- Leaders from the Alliance, Empire and Federation have agreed a series of minor treaties at the diplomatic gathering in the Sirius system. Vox Galactica featured this report from political correspondent Conrad Sterling: "Following days of heated arguments, temperatures in the conference chamber finally cooled enough for all three superpowers to formalise a raft of agreements. These were ratified in person by Chancellor Blaine, President Hudson and Prime Minister Mahon. The most significant of these treaties is the Cornelius-Lasky Convention, named after its two leading proponents. This requires the Alliance, Empire and Federation to share information on any large-scale threats to civilian populations, including environmental, medical and xenological crises. There has been slow progress on other topics, such as military limitation and border control. Many independent ambassadors are demanding to prioritise debates on the Thargoid issue, and especially the defensive role played by Aegis. Outside the chamber, First Minister Fairfax invited Princess Duval to a small ceremony to honour her late father. Fairfax formally apologised for Prince Harold's death and condemned the terrorists responsible. Aisling Duval gracefully accepted this, but time will tell if it was an empty gesture or the first step toward Imperial-Marlinist rapprochement."^[6]^
+
+01 MAR 3307
+
+- Delegates at the diplomatic conference have clashed over long-standing political issues, with some threatening to abandon the event. Journalists at Patterson Enterprise in the Sirius system reported their observations via mainstream newsfeeds.
+The Imperial Herald: "Minister Whyte's claim that the Empire had fomented terrorism by repressing Marlinism was somewhat predictable. But nobody expected Princess Duval's icy retort, which caused shocked gasps across the chamber."
+Sol Today: "President Hudson easily dealt with Patreus's whine about the Federation's so-called 'war-mongering', putting the bombastic Imp in his place."
+Eye on Achenar: "The dull-witted thug of a president was no match for Senator Patreus, who received cheers for his condemnation of typical 'Fedneck' arrogance."
+The Alliance Tribune: "The conference's hosts were visibly embarrassed by Councillor Kaine's claims that Coalsack Nebula terraforming projects had triggered recent Thargoid attacks. Shockingly, several delegates dismissed this as an internal matter for the Alliance."
+The Federal Times: "Chancellor Blaine's stonewalling on the co-funding of humanitarian aid brought a rare flash of anger from Felicia Winters: 'Maybe the Emperor's puppet could loosen a few strings?'"
+The Sovereign: "Despite Prime Minister Mahon exaggerating the benefits of Alliance membership, several independent ambassadors complained about its incomprehensible bureaucracy, saying it would be less damaging to declare war against the Alliance than join it."
+A representative from Sirius Corporation reported that the Galactic Summit was "going well".^[18]^
+
+26 FEB 3307
+
+- Alliance, Empire and Federation leaders have held their first ever face-to-face discussions at the diplomatic conference in the Sirius system. Political correspondent Conrad Sterling published this report for Vox Galactica: "The Galactic Summit has already made history by bringing together many political figureheads within one conference chamber. Optimistic opening statements from Chancellor Anders Blaine and Prime Minister Edmund Mahon gained applause. President Zachary Hudson was more curt, reminding everyone that billions of people would be affected by their efforts. Agendas and debate topics for the next three weeks were formalised. Much of the work will be done behind the scenes by ambassadorial staff, making big decisions in small rooms. The general tone so far has been courteous, although that may not last. Predictably, interactions between the Imperial and Marlinist delegations have been frosty, with Senator Denton Patreus refusing to even acknowledge their presence during discussions. However, First Minister Jenna Fairfax enjoyed a more cordial meeting with Shadow President Felicia Winters. They were joined by Jasmina Halsey, who has accompanied Winters from Mars in an unofficial capacity. One notable absentee was Federal Ambassador Jordan Rochester, whose family is under legal scrutiny following the crimes of his older brother Jupiter Rochester. This at least spared Jordan the awkwardness of having to formally greet his ex-fiancée, Princess Aisling Duval. But it's likely there will be no shortage of tension between other delegates in the coming weeks."^[19]^
+
+12 FEB 3307
+
+- Delegations have been formed by the Empire and the Marlinist Colonies to take part in the forthcoming diplomatic conference. Emperor Arissa Lavigny-Duval will not attend in person, but will be directly represented by Chancellor Anders Blaine. During the conference, Senator Zemina Torval will temporarily assume chancellor duties and act as head of the Senate. In addition, Princess Aisling Duval and Senator Denton Patreus will be in attendance. They will be accompanied by experienced ambassadors from the Imperial Diplomatic Corps. The Marlinist Colonies have also finalised their delegation, which includes First Minister Jenna Fairfax and Minister Aaron Whyte. A spokesperson for the Marlinist Parliament said: "The Galactic Summit offers us an opportunity to engage with the Empire diplomatically, and we sincerely hope our voices will be heard. We also aim to establish mutually beneficial relations with other governments." There is widespread speculation on how the Empire will respond to political overtures from its own ex-citizens, who were persecuted for following the democratic ideology of Marlinism. However, most societies within the Marlinist Colonies still remain culturally Imperial in nature, despite their republican governance. The Galactic Summit is being hosted by Sirius Corporation and will officially commence on Thursday the 25th of February 3307.^[20]^
+
+16 NOV 3306
+
+- Princess Aisling Duval's request for her cousin, Imperator Hadrian Augustus Duval, to be accepted into the Imperial Family has been denied. Emperor Arissa Lavigny-Duval's decision was delivered to the Senate by Chancellor Anders Blaine: "Her Majesty acknowledges that Hadrian is a Duval by blood, and offers royal pardons to him and his followers for previous crimes against the Empire. However, she does not bestow upon him the title of prince, nor offer any formal position within the Imperial Family." Aisling Duval and Hadrian Duval both expressed disappointment, but agreed to accept the decree. The Senate has now ratified the Treaty of Paresa, which removes Nova Imperium's outlaw status in return for accepting Emperor Arissa's rule and contributing to operations against the NMLA. The Imperial Herald's political journalist Cassia Carvalho commented: "This surprisingly even-handed judgement is widely seen as bowing to pressure from the Senate, where there is much loyalty to Aisling Duval. Some interpret it as atonement – or regaining political goodwill – for the purge of Nova Imperium in 3305, which included the execution of several senators. The image this projects is of an Empire coming together against the greater threat posed by Neo-Marlinists. But there is speculation that an alliance between the two youngest Duvals may one day challenge the Emperor for the throne."^[21]^
+
+18 JAN 3305
+
+- Imperator Mordanticus, the leader of isolationist group Nova Imperium, has been captured by the Empire. His arrest was made during the conflict between Nova Imperium and the Empire in the Paresa system. Chancellor Anders Blaine made a pronouncement on behalf of Emperor Arissa Lavigny-Duval: "With its fleet destroyed, Nova Imperium's seditious agenda has been halted. The so-called Imperator, Duke Kaeso Mordanticus, will be brought before the Senate on Friday the 25th of January to answer charges of treason against the Empire." Political journalist Cassia Carvalho commented in The Imperial Herald: "For the emperor to assemble the entire Senate is a rare occurrence. It seems likely that she will make an example of Mordanticus, perhaps with a public trial. Although Nova Imperium survives in the Paresa system, the loss of both its fleet and military commander may have delivered a mortal blow to the isolationist cause."^[22]^
+
+27 DEC 3304
+
+- Imperial senators supporting the isolationist group Nova Imperium have demanded that Emperor Arissa Lavigny-Duval acknowledge its figurehead, Hadrian Augustus Duval. Senator Eloise Winterstone proclaimed to the Senate: "The Imperial family must officially recognise Hadrian Duval as one of its own. Given that the Emperor has no children, such an act would secure the future of the Duval bloodline." Chancellor Anders Blaine replied: "Our official position is that Nova Imperium is a fringe organisation with no right to determine policy. We have no more to say on the matter." Political journalist Cassia Carvalho wrote in The Imperial Herald: "With the possibility of civil war increasing, the suggestion that Arissa accept Hengist Duval's grandson as an heir feels like a reasonable compromise. Her lack of response so far has led to accusations of weakness, with many calling on her to step down and for Hadrian Duval to be instated as sovereign ruler."^[23]^
+
+04 FEB 3302
+
+- A little over two weeks ago, the Facece system was occupied by an independent faction known as the Allied Facece Order. The news sent shockwaves through the Empire, with many asking how such a small organisation could take control of the second most important system in Imperial space. The consternation felt by Imperial citizens was compounded by the Empire's apparent lack of urgency regarding the issue, with many directing their frustration at Chancellor Anders Blaine, who was until recently the system's primary administrator. Colm Tornquist of the Imperial Herald seemed to encapsulate the views of many when he asked: "What is Chancellor Blaine waiting for? Every day that passes is another day in which the people of Facece labour under the dictatorial rule of the Allied Facece Order. Action must be taken!" Almost as soon as this complaint was aired, Chancellor Blaine announced plans to retake the Facece system: "I apologise for what some have perceived as a lack of alacrity. I know the Imperial people are eager to see these opportunists removed from Imperial space, but it was essential that we plan our operation carefully to minimise the danger to the people of Facece. Now the planning is over, and order will soon be restored. I implore the people of Facece to remain calm. And to the Allied Facece Order I say this: your days are numbered."^[24]^
+
+06 OCT 3301 
+
+- Senate Declares Arissa Lavigny-Duval Emperor. Chancellor Blaine announced the Senate's decision on the Emperor's succession to be Arissa Lavigny-Duval with a clear majority vote.^[25]^
+
+05 OCT 3301
+
+- Imperial Succession Vote in Senate Today. Chancellor Blaine was considered the strongest candidate for the throne, particularly given the deadlock between Princess Aisling Duval and Senator Arissa Lavigny-Duval. But the recent revelation of his indirect connection to Emperor's Dawn leaves the two women as the most convincing contenders. The Princess's chances were dealt a blow by the revelation of her own connections to Emperor's Dawn. With Senator Lavigny-Duval receiving public support from Senators Patreus and Torval, some believe she has an advantage.^[2]^
+
+02 OCT 3301
+
+- Little has been heard from Princess Aisling Duval since it was revealed that one of her key advisors, Patron Damon Clarke, was connected to Emperor's Dawn. She has reportedly cooperated with both the Senate and IISS investigations into the allegations, and has vehemently denied any prior knowledge of the link. That changed this morning with the shattering announcement of her own investigation's findings. In a statement, Princess Aisling revealed that some of Chancellor Anders Blaine's past advisors were connected to the same members of Emperor's Dawn as Patron Damon Clarke. She also highlighted that while Patron Clarke's connection to Emperor's Dawn was historic, those within the Chancellor's team were more recent. She concluded by listing the names of those implicated. Princess Aisling Duval has not yet released evidence of the connections. Chancellor Anders Blaine denied all knowledge of any connection, and refused to comment further.^[26]^
+
+21 SEP 3301
+
+- At the start of the day's deliberations, Chancellor Anders Blaine declared that a Senate investigation into the claimed connection between Princess Aisling Duval's office and the insurgent group Emperor's Dawn was to be undertaken. The investigation will begin immediately, despite the Senate being in closed session until the succession is decided. In response, Aisling Duval stated that she would comply in any way she could with the investigation. She also said that her own security teams had discovered some alarming information that she would share with the investigation committee. Meanwhile, the hunt for Patron Damon Clarke continues. Several of his associates were arrested by the Internal Security Service in the early hours of the morning and subjected to questioning.^[27]^
+
+06 AUG 3301
+
+- **Official Period of Mourning Begins**  After Emperor Hengist Duval's death, Chancellor Anders Blaine held a press conference in front of the entrance to the Hall of Martyrs and declared the beginning of the official period of mourning for Emperor Hengist Duval: *“It is my solemn duty to officially mark the first day of the four-week period of mourning for our beloved Emperor. As is customary, the body of the Emperor will be placed in the vestibule of the Hall of Martyrs for public viewing and the paying of respect.”*^[28]^
+
+06 DEC 3300
+
+- Arguably the most powerful person in the galaxy, Emperor Hengist Duval, is sick. He has ruled the Empire now for 67 years since his coronation in 3233 following the death of his father, Hesketh Duval. Emperor Hengist is only 118, born only a week before the death of his grandfather, Hender Saik Duval. Some say Hender's spirit had already transferred to Hengist at that time. The Duval Imperial line has been unbroken for almost a thousand years. There have been power struggles in the past, but the usurpers have been successfully dealt with behind closed doors. This time is different. Hengist has been not involved himself in politics for a long time, relying on his Chancellor, Senator Blaine and has taken a laissez faire attitude towards a handful of increasingly powerful and ambitious Senators whilst Harold, the current heir, quickly made a name for himself as a feckless playboy. The warlike Senator Denton Patreus, last seen trying to destabilise the Eranin system during the conflict surrounding its 30th Anniversary of Independence from the Federation, continues his manipulative power-broking in the galaxy at large. The preposterously rich Senator Zemina Torval is using her slaver corporation supporters and personal fleet of Majestic-class Interdictors to suppress revolts and to further her ambitions. Commentators expect others to show their hand, too. Much like in Imperial Rome on ancient Earth, Senators determine the tax rates of their supporters and both Patreus and Torval have become hugely popular back home as they have each used their huge wealth to lower taxation to zero. There is a real prospect of the next Emperor not being a Duval. And the bitter fight for succession is about to spill out into the open. Meanwhile, the Federation and Alliance of Independent Systems are watching with keen interest.^[29]^

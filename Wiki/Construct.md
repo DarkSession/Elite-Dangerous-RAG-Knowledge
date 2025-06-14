@@ -1,0 +1,12 @@
+# Construct
+The **Constructs** are a sentient, robotic species that were created by the Guardians 1 to 2 million years ago.^[1]^ It is unknown whether they still exist in the galaxy.^[2]^  
+
+## History
+
+The Guardians experimented with artiﬁcial intelligence prior to the invention of the monolith network, but the creation of the network and the knowledge-sharing it facilitated dramatically accelerated the rate of progress. The Guardians’ experiments bore fruit, resulting in the ﬁrst fully sentient machines. These Constructs were seen as a means to enhance the Guardians’ technological mastery, and were integrated into various aspects of their society. Neural implants were developed that connected the Guardians with both the Constructs and the monolith network in a symbiotic circle.^[1]^
+
+The Guardians’ artificially intelligent Constructs were responsible for controlling the war machines and other military apparatus, as well as overseeing civilian technology and infrastructure. We know that these Constructs eventually gained sentience and destroyed the Guardians. But it appears that it was not the military Constructs that made this choice. The Constructs for civilian utility and those for military operation were independent of one another, and it was the non-military Constructs that decided to attack the Guardians. The military Constructs were opposed to this decision, but somehow the non-military Constructs won out, forcing their military counterparts to comply with the attack. What a remarkable discovery. It makes Ram Tah wonder what happened to these Constructs, and what they eventually became. Were they destroyed? Or do they still exist, somewhere in the vastness of space?^[2]^
+
+### Domestic Constructs
+
+It seems that before the second civil war most menial work was performed by Constructs. But despite this the Guardians did not become idle. On the contrary — they devoted themselves to artistic and athletic pursuits. Many Guardians participated in what we would call sporting events. Although it seems these events incorporated some ritualistic elements. One cannot help but wonder what would happen if humanity made more use of labour-saving technology. Would we become a more cultured people as the Guardians did? A shame, the long-standing convention against the development of artiﬁcial intelligence means we will probably never ﬁnd out.^[3]^

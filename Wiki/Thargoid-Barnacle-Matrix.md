@@ -1,0 +1,12 @@
+# Thargoid Barnacle Matrix
+Barnacle Matrices were Thargoid surface structures first discovered after the invasion of the human bubble in 3308. They were detected in a number of star systems with the Thargoid Control status that feature landable worlds with Ammonia atmospheres^[1]^. Unlike traditional barnacles, these structures are vast, clustered in areas up to several kilometers across and guarded by Thargoid Revenants.
+
+The exact purpose of these was initially unknown, though sounds and tremors in the regions suggested they were still growing, while many speculated they could be the beginnings of an active Thargoid colonization effort within human territory. Following a period of 'growth', these sites eventually became Thargoid Spires^[2]^; vast structures that seem to act as refineries and depots supporting nearby Thargoid Titan systems. later in the war, a process of contaminating these refineries proved critical to undermining the defenses of the Titans, eventually leading to the destruction of the first Titan, Taranis.
+
+## History
+
+In late 3308, the Second Thargoid War escalated significantly following the battle of HIP 22460, where superpower forces (placed under the command of Azimuth Biotech) drew the full attention of the Thargoids through an attempted act of genocide. In addition to increased Thargoid aggression, this led to the deployment of several Titans within human inhabited space, acting as beachheads for a full-on invasion. While the initial onslaught was devastating, human forces (through ever increasing organization and new technology provided by engineers and Aegis) eventually halted the Thargoid advance and slowly began pushing back. 
+
+In response, the Thargoids appear to have begun changing tactics over time, first deploying the new Glaive (Hunter-class) vessels to counter AX tactics and later increasing rates of human abduction via Scythe vessels (also Hunter-class). By mid 3308, the first Barnacle Matrix sites where discovered on worlds with Ammonia based atmospheres.
+
+The stolen refugees already started to be rescued from Titans by independent pilots after inventing pulse suppressor module and caustic sink launcher. Rescue operations are using another new module, a rebult subsurface displacement missle (same as mining equppment, but bigger and redesigned) Right now saved peoples are taken under quarantine conditions and being studied before releasing back to society.

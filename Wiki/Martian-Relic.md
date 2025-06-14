@@ -1,0 +1,8 @@
+# Martian Relic
+The **Martian Relic** is an alien artefact that was discovered on Mars in the Sol system by human colonists in 2280. All that is known about the object is that it was excavated from beneath the planet's surface, it measures only a few centimetres square, and it was not made by humans.^[1]^ The Federation took possession of the Martian Relic shortly after its discovery and access to it remains highly restricted in the 34th century.
+
+## Timeline
+
+30 SEP 3302
+
+- The discovery of mysterious wreckage in the Pleiades Nebula has rekindled interest in the so-called Martian Relic, an object discovered beneath the surface of Mars over one thousand years ago. Very little is known about the Relic except that it was discovered in 2280 and is relatively small, measuring no more than a few centimetres square. Indeed, there is so little concrete information in the public sphere that some have questioned the Relic's very existence. But leaked Federal records confirm that the object, which was sequestered by the Federal government shortly after its discovery, is very real. The discovery of the Unknown Artefacts, Unknown Probes and the mysterious wreckage in the Pleiades Sector AB-W B2-4 system has prompted many to wonder anew at the Relic's origin. Naturally, some have speculated that it could be a Thargoid artefact, but with access to the Relic restricted, this theory can be neither proved nor disproved. Only one thing is for sure – until the Federal government decides to release information into the public domain, we have little option but to speculate.^[2]^
