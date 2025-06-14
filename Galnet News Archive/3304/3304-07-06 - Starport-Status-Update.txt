@@ -1,0 +1,29 @@
+Title: Starport Status Update
+Published: 06 JUL 3304 on Galnet News
+Content: This report presents the latest data on starports experiencing technical issues as a result of Thargoid Sensor related interference.
+
+The following starports are currently closed:
+
+Arend Dock, HIP 17838
+
+Gehry Gateway, Checha
+
+Gentle Survey, Jolagro
+
+Gordon City, Anagori
+
+Meanwhile, the following starports are on the brink of closure:
+
+Hurston Platform, Yamahun
+
+Malthus Terminal, Pleiades Sector HR-W d1-41
+
+Neumann Camp, Shinrarta Dezhra
+
+Mitchell Ring, Carnoeck
+
+De Lay Survey, Ahemaker
+
+Kube-McDowell Enterprise, Kakas
+
+Norgay Hub, Obambori

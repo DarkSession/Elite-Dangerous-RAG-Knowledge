@@ -1,0 +1,11 @@
+Title: Galactic News: Starport Status Update
+Published: 18 OCT 3303 on Galnet News
+Content: This report presents the latest data on starports experiencing technical issues as a result of Thargoid Sensor related interference.
+
+The following starports are currently closed:
+
+Fadlan Gateway, Scylla
+
+Meanwhile, the following starports are on the brink of closure:
+
+Ackerman Market, Eravate
