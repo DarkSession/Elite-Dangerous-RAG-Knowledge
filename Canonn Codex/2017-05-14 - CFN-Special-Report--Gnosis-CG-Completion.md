@@ -1,0 +1,7 @@
+## CFN Special Report: Gnosis CG Completion
+
+Published: 14 May 2017 on Canonn (https://canonn.science/news/gnosis-cg-completion/)
+
+Content: In what can only be called a resounding show of support from both the community at large and Canonneers, the project to get the science vessel *Gnosis* operational has finished despite initial protests from aggrieved factions that can’t get the Pilot’s Federation to return their communiques, and the rampant UA-Bombing of *Zolene Port*.  While the project was expected to take a week to finish and even had 2 extra massive orders laid on top of it beyond the initial 8 stages, the order was completed in a little under 3 standard days. While we have no solid numbers as of this report an estimated 35 million tonnes of goods were delivered by roughly 9,400 or more commanders. It is suspected this operation was both one of the largest showing of commanders and fastest completing operations since the fabled Imperial *Gold Rush* run by Denton Patreus in 3302. As a show of good faith to the people of *Zolene Port*, as side project has been enacted to repair the UA damage caused by miscreants and detractors in *LTT 377*.
+
+Commander [Larzok](/user/larzok), CFN.
